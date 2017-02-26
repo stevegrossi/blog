@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<h1 class="Title">
+  <span class="Title-eyebrow">Books I’ve Read By</span>
+  {{ page.title }}
+</h1>
+
+<ol class="ArticleList">
+  {% assign books = site.data.books | where_exp:"book","book.authors contains page.slug" %}
+  {% for book in books %}
+    <li class="MediaElement Article">
+      <img src="http://images.amazon.com/images/P/{{ book.asin }}.01.LZZZZZZZ.jpg" class="MediaElement-media Cover" alt="" />
+      <div class="MediaElement-content">
+        {% assign book_post = site.posts | where:"book",book.slug | first %}
+        {% if book_post %}
+          <a href="/on/{{ book_post.slug }}" class="Article-title">
+            {{ book.title }}
+          </a>
+        {% else %}
+          <span class="Article-title">
+            {{ book.title }}
+          </span>
+        {% endif %}
+        <p class="Article-summary">
+          {% if book.authors %}
+            by
+            {% for author_slug in book.authors %}
+              {% assign author = site.authors | where:"slug",author_slug | first %}
+              {% if forloop.index == forloop.length %}and{% endif %}
+              <a href="/on/books/by/{{ author_slug }}">{{ author.title }}</a>{% if forloop.index < forloop.length and forloop.length > 2 %},{% endif %}
+            {% endfor %}
+          {% endif %}
+        </p>
+        <div class="Article-meta">
+          {{ book.publisher }}, {{ book.published }}
+        </div>
+    </li>
+  {% endfor %}
+</ol>
+
+<p><a href="/on/books/by/">« All Authors</a></p>

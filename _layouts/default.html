@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ "/css/all.css" | prepend: site.baseurl }}">
+    {% seo %}
+    {% feed_meta %}
+  </head>
+  <body>
+    <header class="SiteHeader">
+      <nav class="SiteHeader-container">
+        <a href="/on" class="SiteHeader-logo" accesskey="1" title="Home">
+          Steve Grossi
+        </a>
+        <ul class="SiteHeader-navList">
+          <li class="SiteHeader-navItem">
+             <a class="SiteHeader-navLink {% if page.url == "/on/" %}SiteHeader-navLink--current{% endif %}" href="/on/">thoughts</a>
+          </li>
+          <li class="SiteHeader-navItem">
+             <a class="SiteHeader-navLink" href="//work.stevegrossi.com">work</a>
+          </li>
+          <li class="SiteHeader-navItem">
+             <a class="SiteHeader-navLink {% if page.url == "/is/" %}SiteHeader-navLink--current{% endif %}" href="/is/" title="About Me">about</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+
+    <main class="MainContent {% if page.reader %}MainContent--reader{% endif %}" role="main">
+      {{content}}
+    </main>
+
+    <footer class="SiteFooter">
+      <p class="SiteFooter-logo">Steve Grossi</p>
+      <div class="SiteFooter-linkSection">
+        <h2 class="SiteFooter-heading">Here</h2>
+        <ul class="SiteFooter-linkList">
+          <li><a href="/on/">thoughts</a></li>
+          <li><a href="/on/books/">books</a></li>
+          <li><a href="/on/topics/">tags</a></li>
+          <li><a href="/is/">about</a></li>
+        </ul>
+      </div>
+      <div class="SiteFooter-linkSection">
+        <h2 class="SiteFooter-heading">Elsewhere</h2>
+        <ul class="SiteFooter-linkList">
+          <li><a href="//work.stevegrossi.com">work_blog</a></li>
+          <li><a href="//heresyourjetpack.tumblr.com">tumblr</a></li>
+          <li><a href="//twitter.com/stevegrossi">twitter</a></li>
+        </ul>
+      </div>
+      <p>
+        <small class="SiteFooter-copyright">© Steve Grossi. Be cool.</small>
+      </p>
+  </body>
+</html>

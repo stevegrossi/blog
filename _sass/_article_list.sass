@@ -1,0 +1,15 @@
+.ArticleList
+  margin-top: 0
+  margin-left: 0
+  margin-right: 0
+  list-style: none
+
+  &--featureFirst
+    .Article:first-child
+      background: rgba($yellow, .15)
+      margin-left: -2em
+      padding-left: 2em
+      padding-right: 1em
+
+      & + .Article
+        border-top: 0

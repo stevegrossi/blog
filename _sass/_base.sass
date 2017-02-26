@@ -1,0 +1,166 @@
+html
+  overflow-y: scroll
+
+body
+  background: $sand
+  color: $darker-gray
+  font-family: $serif-stack
+  font-size: 100%
+  @media screen and (min-width: 36em)
+    font-size: 120%
+  @media screen and (min-width: 48em)
+    font-size: 150%
+  line-height: $baseline
+  -webkit-font-smoothing: antialiased
+  -moz-osx-font-smoothing: grayscale
+
+main
+  background-color: $white
+  a
+    color: $blue
+    transition: all 0.1s ease-in-out
+    &:visited
+      color: mix(black, $blue, 20%)
+    &:hover, &:active
+      color: mix(white, $blue, 20%)
+
+h1, h2, h3, h4, h5,
+p, ul, ol, dl,
+table, figure, fieldset, input[type="submit"]
+  margin-top: $baseline
+  margin-bottom: $baseline
+
+h1, h2, h3, h4, h5, h6
+  line-height: 1
+  margin-top: $baseline * 2
+
+h1,
+h1 + h2,
+h2 + h3,
+h3 + h4,
+h4 + h5,
+h5 + h6
+  margin-top: $baseline
+
+h1
+  font-size: 2em // 32px
+
+h2
+  font-size: 1.5em // 24px
+
+h3
+  font-size: 1.125em // 18px
+  text-transform: uppercase
+  letter-spacing: .1em
+
+h4
+  font-size: 1.125em // 18px
+
+h5
+  font-size: 1em // 16px
+
+h6
+  font-size: 1em // 16px
+
+sup, sub
+  position: relative
+  font-size: 75%
+  line-height: 0
+
+sup
+  top: -.5em
+
+sub
+  bottom: -.25em
+
+mark
+  background: $highlight-color
+  color: inherit
+
+blockquote
+  margin: $baseline
+  color: $gray
+
+ul, ol
+  margin: $baseline
+  padding: 0
+  ul, ol
+    margin: 0 $baseline
+
+dt
+  font-weight: bold
+
+dd
+  margin: 0 0 $baseline
+  ul
+    margin-top: 0
+
+figure
+  margin-top: 0
+  img
+    width: 100%
+    display: block
+    margin: 0 auto $baseline * 0.5
+
+figcaption
+  color: $gray
+  line-height: 16px
+  font-size: 13px
+
+hr
+  border: 0
+  height: 1em
+  margin: $baseline 0
+  &:before
+    content: "* * *"
+    display: block
+    text-align: center
+    letter-spacing: .5em
+
+pre, code, kbd, samp
+  font-family: $mono-stack
+
+table
+  width: 100%
+
+th, td
+  border: $border-light
+  padding: 4px
+
+th
+  background-color: $lighter-gray
+
+tfoot td
+  font-size: .8em
+
+button,
+input,
+textarea
+  padding: $baseline * 0.5
+
+legend
+  padding: 0 .5em
+  font-weight: bold
+
+label
+  display: block
+  margin-top: $baseline
+
+ul label
+  margin-top: 0
+
+textarea
+  min-height: $baseline * 4
+  border: $border-light
+
+input,
+select[multiple='multiple']
+  border: $border-light
+
+input[type="submit"]
+  margin-right: .5em
+  padding: $baseline * 0.5 $baseline
+  background: $darker-gray
+  color: #fff
+  border: 2px solid $darker-gray
+  border-radius: .25em

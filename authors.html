@@ -1,0 +1,16 @@
+---
+title: I’ve Been Reading
+permalink: /on/books/by/
+---
+
+<h1 class="Title">{{ page.title }}</h1>
+
+<ol class="ColumnList">
+  {% for author in site.authors %}
+  <li>
+    <a href="/on/books/by/{{ author.slug }}">{{ author.title }}</a>
+    {% assign books_count = site.data.books | where_exp:"book","book.authors contains author.slug" | size %}
+    ({{ books_count }})
+  </li>
+  {% endfor %}
+</ol>

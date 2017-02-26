@@ -1,0 +1,28 @@
+---
+permalink: /on/books/
+description: Writing about books helps me figure out what I think about them.
+---
+
+<h1 class="Title">Everything I’ve Read</h1>
+
+{% assign books_by_year = site.data.books | group_by_exp:"book",
+"book[1].started | slice: 0, 4" %}
+
+{% for book_year in books_by_year %}
+  <h2 class="u-centered">{{ book_year.name }}</h2>
+  <ol class="ThumbList">
+  {% for book_hash in book_year.items %}
+    {% assign book = book_hash[1] %}
+    <li class="ThumbList-item">
+      {% assign book_post = site.posts | where:"book",book_hash[0] | first %}
+      {% if book_post %}
+        <a href="/on/{{ book_post.slug }}">
+          <img src="http://images.amazon.com/images/P/{{ book.asin }}.01.LZZZZZZZ.jpg" class="ThumbList-thumb Cover" />
+        </a>
+      {% else %}
+        <img src="http://images.amazon.com/images/P/{{ book.asin }}.01.LZZZZZZZ.jpg" class="ThumbList-thumb Cover" />
+      {% endif %}
+    </li>
+  {% endfor %}
+  </ol>
+{% endfor %}
