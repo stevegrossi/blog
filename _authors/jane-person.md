@@ -1,3 +1,0 @@
----
-title: Jane Person
----
