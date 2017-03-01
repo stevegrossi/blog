@@ -33,6 +33,8 @@ collections:
   tags:
     output: true
     permalink: /on/topics/:title
+  books:
+    output: false
 
 defaults:
   -
