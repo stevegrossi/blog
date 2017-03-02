@@ -201,7 +201,6 @@ DEPENDENCIES
   jekyll (~> 3.3.0)
   jekyll-compose
   jekyll-feed
-  jekyll-paginate
   jekyll-seo-tag
   jekyll-sitemap
 
