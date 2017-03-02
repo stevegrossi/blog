@@ -1,0 +1,18 @@
+---
+title: "Rats and Cages"
+description: "Circumstance bears heavily on behavior."
+tags:
+  - addiction
+  - ethics
+  - punishment
+---
+
+Influential early studies on addiction in the middle of the last century (as told [in comic form by Stuart Mcmillen](http://www.stuartmcmillen.com/comics_en/rat-park/)) involved rats in cages being given the ability to dose themselves with morphine (which affects rats similarly to how it affects humans). Dramatically, many rats dosed themselves to death, giving rise to the idea (and following parental panic) that just one taste of a powerful drug would send its victim into an uncontrollable death spiral. This certainly remains the prevailing view on drugs, and until now I hadn't heard of any research to the contrary.
+
+While the potentially destructive effects of drug use are unquestionable, researcher Bruce Alexander examined an interesting aspect of these initial studies. How much did their results depend upon about the effects of drugs on rats, and how much depended upon the effects of drugs on rats *in solitary confinement*. Rats are social creatures like us, so Alexander hypothesized that being kept alone in cages may have traumatized the rats, making them more susceptible to the narcotic effects of the morphine. To test this, his lab built Rat Park, a pen for his research subjects with elements from rats' natural habitats where they could all play together. He did the morphine experiment on these rats as well as another group kept alone in cages.
+
+While Alexander tested a range of hypotheses, the gist of the results were that the rats in cages became gravely addicted to the morphine as they had done before, while the rats in Rat Park avoided the morphine, even when it was sweetened with sugar. Stuart McMillen, author of the cartoon which told me this story, gets to the heart of it: "What if the difference between not being addicted and being addicted...was the difference between seeing the world as your park...and seeing the world as your cage."
+
+Speaking of cages, the American Institute of Architects has a code of ethics which contains precept that "Members should uphold human rights in all their professional endeavors." One of my favorite podcasts, 99 Percent Invisible, recently [did an episode](http://99percentinvisible.org/post/51575227687/episode-80-an-architects-code) about a move by an organization called Architects, Designers, and Planners for Social Responsibility to argue that some buildings, specifically prisons with execution chambers and cells for long-term solitary confinement, are in violation of this code. They point to California's Pelican Bay supermax prison, where inmates spend 22-23 hours of each day alone in a 90 square-foot, windowless room. These inmates are [33 times more likely to commit suicide](http://www.latimes.com/news/local/political/la-me-ff-court-expert-prison-suicide-rate-20130313,0,4145730.story) than inmates in other California prisons, and the research of psychologist Terry Kupers suggests why. He's found that among the effects of solitary confinement are "massive anxiety, paranoia, depression, concentration and memory problems, and loss of ability to control one’s anger."
+
+As with addictive behavior, violence seems as much a product of circumstance as predisposition. We seem to have given up on rehabilitating our worst offenders if we, as social animals, choose instead to drive them mad with solitude. While most of us can ignore the ethics of this situation, if ADPSR has its way, those who build these places may lose that luxury.

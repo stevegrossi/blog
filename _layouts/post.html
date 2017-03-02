@@ -5,14 +5,14 @@ layout: default
 <header class="FullPost-header">
   {% if page.book %}
     <a class="Cover" href="#book">
-      {% assign book = site.data.books[page.book] %}
+      {% assign book = site.books | where: "slug", page.book | first %}
       <img src="http://images.amazon.com/images/P/{{ book.asin }}.01.LZZZZZZZ.jpg" alt="" width="100" />
     </a>
   {% endif %}
   <div>
     <h1 class="FullPost-title">{{ page.title }}</h1>
     {% if page.book %}
-      {% assign book = site.data.books[page.book] %}
+      {% assign book = site.books | where: "slug", page.book | first %}
       {% if book.subtitle %}
         <h2 class="FullPost-subtitle">{{ book.subtitle }}</h2>
       {% endif %}
@@ -29,7 +29,7 @@ layout: default
 </article>
 
 {% if page.book %}
-  {% assign book = site.data.books[page.book] %}
+  {% assign book = site.books | where: "slug", page.book | first %}
   <footer id="book" class="MediaElement Article">
     <img class="MediaElement-media Cover" src="http://images.amazon.com/images/P/{{ book.asin }}.01.LZZZZZZZ.jpg" alt: "" width="100" />
     <div class="MediaElement-content">

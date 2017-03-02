@@ -1,0 +1,60 @@
+---
+title: "Being Mortal"
+description: "Like technology today, medicine is great at optimizing for simple, narrow goals, but human beings need more."
+tags:
+  - death
+  - medicine
+  - values
+---
+
+Atul Gawande (author of [*The Checklist Manifesto*](/on/the-checklist-manifesto)) sat down with author Will Self to talk about Gawande's new book, *Being Mortal* ([recorded here](https://vimeo.com/111193463)). A practicing surgeon as well as an author, Gawande makes a compelling case that medicine places too much emphasis on narrow, measurable goals at the expense of subtler, yet more important (to humans, at least) qualitative metrics. Success is too often measured in raw days of life rather than the patient's ability to imbue those days with meaning.
+
+The conversation really begins with the story that changed Gawande's mind about all this, of a "successful" surgical intervention and its dismal result:
+
+> [The patient] woke up one day paralyzed, came in emergently, and we said "Oh, we'll try to fix that." We offered him: you could do surgery and we could try to take out this tumor that's causing you to be paralyzed, or we could just keep you comfortable; your other choice is that you'll just die. The implication was that we would be saving him in some way, maybe buying him more time. And instead what we did was technically successful—we took out the tumor—the problem extending his paralysis was gone... And to do this we had to go in through his chest and he was so emaciated and weak that he never got off the ventilator, spent two weeks in the ICU just getting worse and worse... It was just misery for him, and then the family finally said enough is enough. I took him off the veltilator and listened to his heart go away.
+
+Before the last few words, gawande pauses and lowers his voice. It's clear this case still weighs heavily on him. But as he goes on to explain, it was the one that finally caused him to question his priorities as a surgeon, and those of the medical system at large. The next time this situation came up, Gawande took a diferent approach:
+
+> I'd seen lots of patients like that. And I'd always take them to surgery saying, well, you can't *eat*, so surely we should try *something*, and make them worse. And instead this time, I managed to ask her the kind of questions that I've found people who are really good at managing this situation were good at, and they would just ask a few questions: What's your understanding of where you are? What are your fears and what are your worries? What are your goals if time is short? What outcomes are unacceptable to you?
+
+Gawande's patient knew she was dying. She was miserable with nausea, and her main priority was relief from suffering in her final days. As a result, Gawande says,
+
+> We fashioned an operation together that said I'm going to go in, I'm going to try to unblock this tumor, but if I do not have a way that I cannot make you feel better within 24-48 hours after this operation, then I won't keep on going. I will just do the things that make you feel better.
+
+In the operatiing room, Gawande found that the tumor was worse than he'd imagined. But according to plan, rather than take extreme measures and risk the patient's comfort in the name of extending life, he took the palliative approach. He installed a tube to drain his patient's abdomen and reduce her nausea, enabling her to live out her final weeks at home in relative comfort with her family. It sounds like a success, but Gawande is candid about how long it took to feel okay about this approach, running as it does against the grain of medicine's culture:
+
+> Getting to that point and feeling like you could feel good doing that, in fact feeling like I'd been competent and had a victory, that's what took a long time.
+
+Gawande has become an advocate of this kind of human-centered medicine, and cites some compelling statistics that his colleagues need to get on board. One is that 65% of doctors overestimate the life-expectancy of terminally-ill patients. As a result, patients may reject palliative care in favor of more risky interventions when the likelihood of success is even lower than they're led to believe. Along these same lines, Gawande claims that life expectancy of patients who accept palliative care is actually longer than those who don't:
+
+> We're in a place where the failure to be able to help elicit what peoples' priorities and goals are before they come to that point, leads you to this place where you say that "Well, then we must do something." And what we do, we not only make them have more suffering, we also shorten their lives which is precisely the opposite of their goal.
+
+On this note about priorities, the conversation segues into patients' goals *besides* merely living longer, remaining safe, and being independent. Gawande, who studied philosophy, is suggesting that medicine concern itself with questions about what makes a good life, not through navel-gazing of course but by asking the patient.
+
+> People have loyalties, that they're willing to sacrifice their health and their well-being and their life for family, for country, for certain ideals, or for beauty and creativity, or for God. But each person has a different thing that gives them purpose and meaning in life. When we enter the medical world, we assume a good life for people is to be healthy and independent. But in face we're going to spend somewhere around a fifth of our lives increasingly less healthy and often not so independent but in fact needing to be cared for. And that's not just when we're sick in the hospital but when we are in a wheelchair or need help with taking a bath. And our assumption is it's not possible to have a good life [that way].
+>
+> There are actual surveys of people as their health diminishes and as their abilities decline. And people in those older phases are actually happier than the rest of us. They're calmer, they have lower levels of depression, lower levels of anxiety—*until you put them in a medical institution*. And then they are absolutely miserable. What do they ask? They say, when can I go home?
+
+Gawande talks about how nursing homes, like surgeons, have the same narrow goal—safety and extended life at any cost—a goal so narrowly defined that it ends up undermining itself:
+
+> I wrote about a man in New York who wrote and applied for regulation changes that allowed him to bring animals into nursing homes—animals that could be owned by the people who live in them. You could have your own dog, your own cat, you could have birds... The regulation said birds are not allowed, they're not safe. But he found that giving people ownership, something to care for bigger than themselves, their death rates fell, their use of antidepressive drugs, drugs against psychosis fell.
+
+Of course, the point isn't that we need more animals in nursing homes (though that would certainly help), but that as full human beings, our physical health is inseparable from our mental and spiritual health. Denying people the lives they want to live, in the name of lengthening those lives, ends up not only shortening their lives anyway, but makes those lives less satisfying. From the operating theater to the nursing home, medicine needs to account for patients not just as biological systems, but as full human beings. It ignores these concerns at its, and patients', peril.
+
+This conclusion is in line with research into the perception of pain and its effects on how we judge entire experiences. Gawande shares findings that, for patients undergoing painful operations for which they must remain conscious, when patients are left on the operating table for just an extra minute at the end with no pain, they recount the operation as being much less painful than those for whom the operation ends immediately. In other words, we tend to judge the overall quality of an experience by just two points: the highest (or lowest) point, and the end. Gawande brings this up to underscore just how important it is to care about the experience of those at the end of their lives, since that experience is a huge part of how they'll judge their life as a whole.
+
+The conversation ends on the somber note of doctor-assisted suicide. Given his advocacy for patients' wishes, it's no surprise that Gawande is sympathetic to the argument that patients be allowed to die on their own terms. But he's unequivocal on the point that we as a society should own these situations as our own failures:
+
+> I think we are heartless if we face people who have unbearable suffering in their life, and are unwilling to offer them the permission to hasten their death. But I also think that every one of those represents a failure of us as a civilized society. That, if we are unable to alleviate suffering like that, then we have to discover how to do it.
+
+He gives the example of surgeries he's performed in India, after which patients in excruciating pain are given only a few Tylenol. It's no wonder some choose to end their lives in this situation, but it's also an easily solvable problem. Prescription-grade pain medication is relatively cheap and accessible to much of the world. It is inhumane to support social and economic systems which maintain this lopsided distribution of suffering, but it is doubly so to presume to deny those suffering the most an exit from their misery. And it's not just the uneven distribution of medication of which we should be critical, but the fraying of the social fabric. Gawande asks us to consider the Netherlands, where
+
+> The most common reason people are choosing euthanasia—and it's now up to almost 4% of the population—is not because of physical suffering, is not because of bodily suffering. The biggest reasn now is they're concerned that they're a burden on their family.
+
+What does it say of a society that such a significant number would rather die than feel they're a burden? That living out one's days in the presence of one's family could even *seem* like a burden, given that for most of human history it was simply a fact of life? Here, as in the previous example, we cannot justify forcing others to endure society's problems, and we must take collective responsibility for their perpetuation.
+
+Frank Pasquale makes a similar point in his recent article, [The Algorithmic Self](http://www.iasc-culture.org/THR/THR_article_2015_Spring_Pasquale.php), about technological "solutions" to political problems and whether they're solutions at all. He considers the Paro, a robotic baby seal designed to provide affection and companionship for the old and alone in their twilight years. Its defenders argue, "If there really is no alternative, no human or animal available to show concern or affection, isn’t the Paro better than nothing?" Which may be true, but we as a society need badly to take stock of things if that's the case. Pasquale argues:
+
+> Robotic caregiving makes far more sense in a society where the adult children of the elderly are under constant pressure to work more or to engage in “helicopter parenting” to keep their own children on track. The “sandwich generation” has to sacrifice something. If, by contrast, productivity gains were better distributed (and converted, at least in part, to more leisure time rather than money), demand for robots in elder care would likely diminish. So, too, would the robotic seal appear a far less comparatively appealing presence if care workers themselves were more professionalized and attached—two qualities that are hard to expect from a poorly paid, precarious, and frequently contingent work force. 
+
+The Paro robot is a solution in the same way that euthanasia is. Far from viewing these technical solutions as marvels, I think Pasquale would agree with Gawande that we as a society must own up to them as failures. Technology and medicine are human inventions as old as humanity itself. Especially today, both are capable of miracles. But they're also capable of something quite the opposite when detached from the human needs, the human beings, for which they were first created.
