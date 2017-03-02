@@ -5,7 +5,7 @@
       <img class="MediaElement-media Cover" src="http://images.amazon.com/images/P/{{ book.asin }}.01.LZZZZZZZ.jpg" alt="" />
     </a>
   {% endif %}
-  <div class="MediaElement-content">
+  <div>
     <div class="Article-meta">{{ post.date | date: "%B %-e, %Y" }}</div>
     <a href="{{ post.url }}" class="Article-title">{{ post.title }}</a>
     <p class="Article-summary">{{ post.description }}</p>

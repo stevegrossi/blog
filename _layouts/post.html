@@ -26,7 +26,7 @@ layout: default
   {% assign book = site.books | where: "slug", page.book | first %}
   <footer id="book" class="MediaElement Article">
     <img class="MediaElement-media Cover" src="http://images.amazon.com/images/P/{{ book.asin }}.01.LZZZZZZZ.jpg" alt: "" width="100" />
-    <div class="MediaElement-content">
+    <div>
       <div class="Article-title">
         {{ book.title }}{% if book.subtitle %}:
           {{ book.subtitle }}

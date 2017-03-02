@@ -9,5 +9,4 @@ My blog.
 - update colophon
 - point root to /on/
 - "by and" in book footer
-- flexbox book footers
 - littlefoot
