@@ -5,8 +5,9 @@ My blog.
 ## Todo
 
 - pagination template
-- import data
-- tag pages
 - confirm URLs
 - update colophon
 - point root to /on/
+- "by and" in book footer
+- flexbox book footers
+- littlefoot

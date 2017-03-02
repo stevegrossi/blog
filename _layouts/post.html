@@ -11,12 +11,6 @@ layout: default
   {% endif %}
   <div>
     <h1 class="FullPost-title">{{ page.title }}</h1>
-    {% if page.book %}
-      {% assign book = site.books | where: "slug", page.book | first %}
-      {% if book.subtitle %}
-        <h2 class="FullPost-subtitle">{{ book.subtitle }}</h2>
-      {% endif %}
-    {% endif %}
   </div>
   <p class="FullPost-date">
     {{ page.date | date: "%B %-e, %Y" }}
@@ -33,7 +27,11 @@ layout: default
   <footer id="book" class="MediaElement Article">
     <img class="MediaElement-media Cover" src="http://images.amazon.com/images/P/{{ book.asin }}.01.LZZZZZZZ.jpg" alt: "" width="100" />
     <div class="MediaElement-content">
-      <div class="Article-title">{{ book.title }}</div>
+      <div class="Article-title">
+        {{ book.title }}{% if book.subtitle %}:
+          {{ book.subtitle }}
+        {% endif %}
+      </div>
       <div>
         {% if book.authors %}
           by
