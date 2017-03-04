@@ -24,30 +24,9 @@ layout: default
 
 {% if page.book %}
   {% assign book = site.books | where: "slug", page.book | first %}
-  <footer id="book" class="MediaElement Article">
-    <img class="MediaElement-media Cover" src="http://images.amazon.com/images/P/{{ book.asin }}.01.LZZZZZZZ.jpg" alt: "" width="100" />
-    <div>
-      <div class="Article-title">
-        {{ book.title }}{% if book.subtitle %}:
-          {{ book.subtitle }}
-        {% endif %}
-      </div>
-      <div>
-        {% if book.authors %}
-          by
-          {% for author_slug in book.authors %}
-            {% if forloop.last == true and forloop.first == false %}and{% endif %}
-            {% assign author = site.authors | where:"slug",author_slug | first %}
-            <a href="/on/books/by/{{ author_slug }}">{{ author.title }}</a>{% if forloop.index < forloop.length and forloop.length > 2 %},{% endif %}
-          {% endfor %}
-        {% endif %}
-      </div>
-      <div class="Article-meta">
-        {{ book.publisher }}, {{ book.published }}
-        {% if book.asin %}
-          &nbsp;&bull;&nbsp;
-          <a href="http://www.amazon.com/gp/product/{{ book.asin }}?ie=UTF8&amp;tag=stevgros-20">Purchase</a>
-        {% endif %}
-      </div>
+  <footer id="book">
+    <ol class="ArticleList">
+      {% include book.html book=book should_link=false %}
+    </ol>
   </footer>
 {% endif %}
