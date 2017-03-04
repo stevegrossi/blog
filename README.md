@@ -1,7 +1,3 @@
 # www.stevegrossi.com
 
-My blog.
-
-## Todo
-
-- update colophon
+My blog. Please read that instead of this.
