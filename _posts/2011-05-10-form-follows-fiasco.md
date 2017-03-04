@@ -10,7 +10,7 @@ tags:
 *Form Follows Fiasco* is a polemic against modern architecture written by an accomplished modern architect. The crux of Blake's argument is that his colleagues in architecture (and other design-related fields) have lost sight of who they're building for: people. If the modernists' mantra was "form follows function," then they quickly became infatuated purely with form, designing lovely but unsittable chairs, handsome but unreadable watches, and gorgeous but unlivable buildings. Most of Blake's arguments are anecdotal. Clearly, not every modern building (or watch or chair for that matter) is a disaster. But Blake has designed over 50 modern buildings; written a paean to the modernist masters Le Corbusier, Mies Van Der Rohe, and Frank Lloyd Wright; and edited Architectural Digest; so his defection is not to be taken lightly, and his indictments  of are rooted in experience. The book's eleven chapters each take on a central tenet (Blake calls them "fantasies") of modern architecture, tenets that the author sets out to prove are out-of-touch with the realities of construction, economy, and human well-being.
 
 <figure>
-  <img src="http://cloud.stevegrossi.com/2011/05/modern_examples.jpg" alt="Some, but not all, modern artifacts remain true to the dictate that form should follow function.">
+  <img src="/img/modern_examples.jpg" alt="Some, but not all, modern artifacts remain true to the dictate that form should follow function.">
   <figcaption> The author cites Rietveld's 1923 "Berlin Chair" and this numberless Ole Mathiesen watch as examples of modernism's betrayal of its own imperative that form follow function (how functional is a chair you can barely sit on or a watch you can't read?) But modernism also produced this 1956 Eames lounge chair and 1962 watch by Max Bill, examples of forms elegantly suited to their function.</figcaption>
 </figure>
 
@@ -21,7 +21,7 @@ And there's also their symbolic cost. Architect Constantinos Doxiades, who felt 
 > (skyscrapers) destroy the urban landscape by eliminating all values which existed in the past. Human symbols--such as churches, mosques, temples of all kinds, city halls, which once rose above the city--are now below the skyscrapers. We may not agree that God or government should rise above man, but are we ready to agree that symbols of capital gain should rise above all else? (82)
 
 <figure>
-  <img src="http://cloud.stevegrossi.com/2011/05/radiant_city_center.jpg" alt="the center of Le Corbusier's Radiant City. It is designed to accommodate helicopters and cars quite well...people, not so much.">
+  <img src="/img/radiant_city_center.jpg" alt="the center of Le Corbusier's Radiant City. It is designed to accommodate helicopters and cars quite well...people, not so much.">
   <figcaption>Le Corbusier's modernist ideal of the Radiant City. It'd make a great setting for a sci-fi film, but would you want to live here?</figcaption>
 </figure>
 

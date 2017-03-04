@@ -20,7 +20,7 @@ Despite—or probably because of—the fact that we live in the most inordinatel
 This last one comes in handy in all sorts of situations. Maybe I’m unhappy with something about my personality, I’m feeling envious of a friend’s good fortune, or I’ve had a stressful day at work. I just think of this:
 
 <figure>
-<img src="http://cloud.stevegrossi.com/2012/05/pale_blue_dot.jpg" alt="The famous photograph of Earth taken by the Voyager spacecraft on its way out of the solar system, in which Earth appears as a tiny, pale blue dot">
+<img src="/img/pale_blue_dot.jpg" alt="The famous photograph of Earth taken by the Voyager spacecraft on its way out of the solar system, in which Earth appears as a tiny, pale blue dot">
 </figure>
 
 See that little dot suspended in a sunbeam off to the right? That’s earth. Every empire, every stroke of genius, every triumph, every love affair, and every massacre—they’ve all been over a tiny fragment of this pale blue speck of dust. The entire history of our species—from the discovery of fire to the Holocaust—is but a drop of water in this great ocean of cosmic insignificance. By comparison, my longings, my irritations, even my grief does not disturb its glassy, indifferent surface.

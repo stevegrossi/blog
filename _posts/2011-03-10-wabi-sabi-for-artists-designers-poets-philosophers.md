@@ -13,7 +13,7 @@ In reading Koren's book, I found myself asking "why *wabi-sabi*?", and by extens
 ## The Tea Masters
 
 <figure class="right">
-  <img src="http://cloud.stevegrossi.com/2011/03/chawan.jpg" alt="A humble, uneven clay teacup from 16th century Japan">
+  <img src="/img/chawan.jpg" alt="A humble, uneven clay teacup from 16th century Japan">
   <figcaption>A simple clay teacup from the 16th century, and an early example of *wabi-sabi*.</figcaption>
 </figure>
 

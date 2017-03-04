@@ -11,7 +11,7 @@ Alain de Botton is passionate about philosophy's relevance to everyday life. He'
 The philosophers featured are mostly tragic figures who rose above their given circumstances, at times heroically, and their middle fingers have remained raised to fate for centuries. This book has little in common with [Badass](http://stevegrossi.com/thoughts/badass), but its subjects do mostly share the same core values: a dogged determination to be true to oneself, and a nigh-sociopathic disregard for anyone who stands in their way.
 
 <figure class="right bleed">
-  <img src="http://cloud.stevegrossi.com/2010/04/socrates.jpg" alt="Socrates didn't give a fuck">
+  <img src="/img/socrates.jpg" alt="Socrates didn't give a fuck">
 </figure>
 
 ## Socrates: Consolation for Unpopularity
@@ -21,7 +21,7 @@ De Botton starts at the beginning with Socrates, perhaps the poster child for ph
 Yet keep in mind that even if he was right old Socrates was still *kind of an asshole*. His method consisted of asking people to define things like truth, justice, and courage--things people find solace believing in--and finding exceptions to their definitions. (*Happiness is material success, you say? What if a materially successful guy has his balls chewed off by a coyote? He's not so happy then, is he? Try again.*) Ultimate truths, he believed, were statements for which no exceptions could be found. Problem is, there will *always* be smartasses to find exceptions to every rule. And this, I think, is really why they killed Socrates: he exposed the blasphemous fact that all of our definitions and values are impossible to justify rationally. The douche.
 
 <figure class="right bleed">
-  <img src="http://cloud.stevegrossi.com/2010/04/epicurus.jpg" alt="Epicurus would not have owned a rolex">
+  <img src="/img/epicurus.jpg" alt="Epicurus would not have owned a rolex">
 </figure>
 
 ## Epicurus: Consolation for Not Being Rich
@@ -31,7 +31,7 @@ Epicurus was much more laid back than Socrates. While his name gets attached to 
 Aside from the bare essentials like nourishment, shelter and not being eaten by lions, Epicurus tells us we don't need much to be happy: just friendship and the ability to think about our lives and steer them in the direction we see fit. Of course, there is much money to be made in deceiving the masses about this. If you're a guy, Unilever would have you believe their Axe body spray is the most potent means to, shall we say, "companionship." But as Epicurus might tell us, why not just skip the middleman, be an outgoing gentleman, and get that companionship yourself? We have direct access to what we need to be happy (again: friends, freedom, and reflection), so ignore the marketing and societal messages trying to convince you that you need (or even *deserve*) to pay for some intermediary.
 
 <figure class="right bleed">
-  <img src="http://cloud.stevegrossi.com/2010/04/seneca.jpg" alt="Seneca says don't worry, be happy">
+  <img src="/img/seneca.jpg" alt="Seneca says don't worry, be happy">
 </figure>
 
 ## Seneca: Consolation for Frustration
@@ -41,7 +41,7 @@ Seneca was a teacher and adviser to Rome's famously insane emperor Nero.[^1] Sen
 He had specific advice for overcoming some particular unhealthy emotions. **Anger** he saw as a kind of madness, the result of unrealistically assuming that the universe will conspire to fulfill our every wish. Keep your expectations in check, and you will never be blinded by rage. Against **shock**, he would advise we think of Pompeii and Vesuvius and nothing should dumbfound us.[^2] If fortune can level entire cities in a day, what makes us think we should be spared? On **indignation**, Seneca thinks that while we may demand justice from our peers, only the fool expects it, and nobody may expect justice from an indifferent universe. Working for justice where we can is a lot more productive than whining about injustice. His consolation for **anxiety** is to expect that bad things will happen and assuage your anxiety by thinking of contingency plans. For those deep in **sorrow**, Seneca reveals the wisdom of a man who spent the final years of his life waiting for the executioner's sword. As he told his friend Marcia upon the death of her son, "What need is there to weep over parts of life? The whole of it calls for tears."
 
 <figure class="right bleed">
-  <img src="http://cloud.stevegrossi.com/2010/04/montaigne.jpg" alt="Montaigne wrote about his bowel movements">
+  <img src="/img/montaigne.jpg" alt="Montaigne wrote about his bowel movements">
 </figure>
 
 ## Montaigne: Consolation for Inadequacy
@@ -53,7 +53,7 @@ An intellectual himself, Montaigne offered special consolation for intellectual 
 One of his most interesting realizations is that the educational system in his day (and ours) privileges the citing of existing, authoritative sources over expressing our own ideas. This contributes to a creativity-stifling impression that the best answers are all out there instead of here in your head. Google, as you might imagine, only makes this situation worse. Of course a student needs to grasp the wisdom of those who came first, but should do so always with an eye to criticizing and moving outward from it.
 
 <figure class="right bleed">
-  <img src="http://cloud.stevegrossi.com/2010/04/schopenhauer.jpg" alt="Schopenhauer was kind of emo">
+  <img src="/img/schopenhauer.jpg" alt="Schopenhauer was kind of emo">
 </figure>
 
 ## Schopenhauer: Consolation for Heartbreak
@@ -63,7 +63,7 @@ If you've just been dumped, you may be crazy enough to find some solace in old S
 An extension of Schopenhauer's view is that we don't fall in love with the people most compatible with our personalities, but instead the people whom our DNA thinks will produce the fittest offspring with us. (Hence, tall guys go for short girls so as not to produce ridiculously tall people who will die from repeatedly bumping their heads on trees.[^3]) So when you're burnt out from having that same fight (the sixth time!) with your "special someone", take comfort in the fact, Schopenhauer would say, that your DNA didn't pick this person for their emotional compatibility. The point of love isn't your happiness, it's the propagation of your genes. And if you're thinking that Schopenhauer's is an untenable view and that nobody would want to cuddle with him, take comfort in the fact that you are right.
 
 <figure class="right bleed">
-  <img src="http://cloud.stevegrossi.com/2010/04/nietzsche.jpg" alt="Nietzsche's animal avatar had huge balls">
+  <img src="/img/nietzsche.jpg" alt="Nietzsche's animal avatar had huge balls">
 </figure>
 
 ## Nietzsche: Consolation for Difficulties

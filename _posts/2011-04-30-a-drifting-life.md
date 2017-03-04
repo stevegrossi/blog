@@ -14,12 +14,12 @@ This story came to my mind while reading *A Drifting Life* because the book func
 *A Drifting Life* clocks in at almost 900 pages, and I can't say it isn't slow at times. But I'm surprised how little I minded the pace, I think because of how it's three stories of increasing grandeur--of Hiroshi, of manga, and of Japan--superimposed on each other. We should keep this in mind when the pace of our own lives seems to lag, to remember that while we're always laying bricks, we're also building walls and, if we're lucky, cathedrals.
 
 <figure>
-  <img src="http://cloud.stevegrossi.com/2011/04/gekiga.jpg"><figcaption>Hiroshi struggles to write a gekiga manifesto</figcaption>
+  <img src="/img/gekiga.jpg"><figcaption>Hiroshi struggles to write a gekiga manifesto</figcaption>
 </figure>
 
 On a final note, this was an interesting book to read with [The Amazing Adventures of Kavalier and Clay](/read/the-amazing-adventures-of-kavalier-clay) fresh in my mind. Both are coming-of-age stories about young men and the medium of comics. Both are deeply embedded in their historical moment (and take place around the same time--the former during World War II and both in the years after). And interestingly, both are about trying to push the boundaries of comics and make them more cinematic. I wonder if this increasing depth and scope is something inherent in the development of any medium, or just the historical effect of cinema's emergence in the early years of comic books and manga.
 
 <figure>
-  <img src="http://cloud.stevegrossi.com/2011/04/soundofcicadas.jpg">
+  <img src="/img/soundofcicadas.jpg">
 <figcaption>Some of Tatsumi's panels include aural as well as visual direction</figcaption>
 </figure>

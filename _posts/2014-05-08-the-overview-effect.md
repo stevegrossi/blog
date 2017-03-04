@@ -13,7 +13,7 @@ That changed in 1968, when the Apollo 8 crew did something extraordinary. Author
 > I was watching it on television and at a certain point, one of the astronauts casually said, "We're going to turn the camera around and show you the Earth," and he did, and that was the first time I had ever seen the planet, hanging in space like that, and it was profound.
 
 <figure class="full_bleed">
-  <img src="http://cloud.stevegrossi.com/2014/05/overvieweffect.jpg" alt="An image of the Earth from behing the Moon, taken by the Apollo 8 crew in 1968" />
+  <img src="/img/overvieweffect.jpg" alt="An image of the Earth from behing the Moon, taken by the Apollo 8 crew in 1968" />
   <figcaption>Still from <cite>Overview</cite> of footage from the Apollo 8 mission. Film by <a href="http://www.planetarycollective.com/">The Planetary Collective</a></figcaption>
 </figure>
 

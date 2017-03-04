@@ -9,7 +9,7 @@ tags:
 The most important thing I've learned this year—and probably in a long while—is how to just be in the present moment. It's the simplest thing: we're only ever right here, right now. And yet, once I started trying to do this, I began to realize just how rarely I was paying attention to what was happening here and now. Instead, I spend a lot of free time reading about things someone else did somewhere else, or worrying about scary things that might happen in the future. Even on my bike ride to and from Lesson.ly, I'd typically be thinking about what I was going to do that day on the ride in and all the things I didn't get to on the ride home—rarely noticing the mist rising from the newly-woken earth or the fiery purply-orange hue of the sky. Life is not the things we didn't do or are going to do. Life is the things we're doing right now, and I was missing a lot of it.
 
 <figure>
-  <img src="http://cloud.stevegrossi.com/2015/12/sunset.jpg">
+  <img src="/img/sunset.jpg">
   <figcaption>Yesterday's sunset behind the Monon Trail</figcaption>
 </figure>
 
