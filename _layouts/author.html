@@ -27,8 +27,8 @@ layout: default
           {% if book.authors %}
             by
             {% for author_slug in book.authors %}
+              {% if forloop.last == true and forloop.first == false %}and{% endif %}
               {% assign author = site.authors | where:"slug",author_slug | first %}
-              {% if forloop.index == forloop.length %}and{% endif %}
               <a href="/on/books/by/{{ author_slug }}">{{ author.title }}</a>{% if forloop.index < forloop.length and forloop.length > 2 %},{% endif %}
             {% endfor %}
           {% endif %}

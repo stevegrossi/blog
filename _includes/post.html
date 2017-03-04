@@ -13,7 +13,7 @@
       {% if post.tags %}
         on
         {% for tag in post.tags %}
-          {% if forloop.index == forloop.length %}and{% endif %}
+          {% if forloop.last == true and forloop.first == false %}and{% endif %}
           <a href="/on/topics/{{ tag | slugify }}">{{ tag }}</a>{% if forloop.index < forloop.length and forloop.length > 2 %},{% endif %}
         {% endfor %}
       {% endif %}
