@@ -4,8 +4,7 @@ slug: "you-are-here"
 subtitle: ""
 publisher: "Self-published"
 published: "2015"
-asin: ""
-authors: 
+authors:
   - david-cain
 started: "2015-11-22"
 start_year: "2015"

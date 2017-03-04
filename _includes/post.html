@@ -2,7 +2,7 @@
   {% if post.book %}
     <a href="/on/{{ post.slug }}">
       {% assign book = site.books | where: "slug", post.book | first %}
-      <img class="MediaElement-media Cover" src="http://images.amazon.com/images/P/{{ book.asin }}.01.LZZZZZZZ.jpg" alt="" />
+      <img class="MediaElement-media Cover" src="{% if book.asin %}http://images.amazon.com/images/P/{{ book.asin }}.01.LZZZZZZZ.jpg{% else %}/img/{{ book.slug }}.jpg{% endif %}" alt="" />
     </a>
   {% endif %}
   <div>
