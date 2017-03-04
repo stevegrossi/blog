@@ -16,7 +16,7 @@
         </a>
         <ul class="SiteHeader-navList">
           <li class="SiteHeader-navItem">
-             <a class="SiteHeader-navLink {% if page.url == "/on/" %}SiteHeader-navLink--current{% endif %}" href="/on/">thoughts</a>
+             <a class="SiteHeader-navLink {% if page.url == "/" or page.url contains "/page/" %}SiteHeader-navLink--current{% endif %}" href="/">thoughts</a>
           </li>
           <li class="SiteHeader-navItem">
              <a class="SiteHeader-navLink" href="//work.stevegrossi.com">work</a>
@@ -37,7 +37,7 @@
       <div class="SiteFooter-linkSection">
         <h2 class="SiteFooter-heading">Here</h2>
         <ul class="SiteFooter-linkList">
-          <li><a href="/on/">thoughts</a></li>
+          <li><a href="/">thoughts</a></li>
           <li><a href="/on/books/">books</a></li>
           <li><a href="/on/topics/">tags</a></li>
           <li><a href="/is/">about</a></li>
