@@ -17,7 +17,7 @@ title: Steve Grossi
 email: me@stevegrossi.com
 description: My personal blog and reading log
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.stevegrossi.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: stevegrossi
 github_username:  stevegrossi
 
@@ -66,6 +66,7 @@ defaults:
 markdown: kramdown
 gems:
   - jekyll-feed
+  - jekyll-sitemap
   - jekyll-seo-tag
 exclude:
   - Gemfile
