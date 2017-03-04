@@ -7,4 +7,3 @@ My blog.
 - confirm URLs
 - update colophon
 - "by and" in book footer
-- littlefoot
