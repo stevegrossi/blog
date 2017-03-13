@@ -1,11 +1,10 @@
 ---
 title: "Terminal World"
 slug: "terminal-world"
-subtitle: ""
 publisher: "Ace"
 published: "2010"
 asin: "0441020437"
-authors: 
+authors:
   - alastair-reynolds
 started: "2012-10-10"
 start_year: "2012"

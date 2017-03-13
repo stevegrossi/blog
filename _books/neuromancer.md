@@ -1,11 +1,10 @@
 ---
 title: "Neuromancer"
 slug: "neuromancer"
-subtitle: ""
 publisher: "Ace"
 published: "1984"
 asin: "0441012035"
-authors: 
+authors:
   - william-gibson
 started: "2014-10-04"
 start_year: "2014"

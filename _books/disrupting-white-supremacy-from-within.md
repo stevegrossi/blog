@@ -1,11 +1,10 @@
 ---
 title: "Disrupting White Supremacy from Within"
 slug: "disrupting-white-supremacy-from-within"
-subtitle: ""
 publisher: "The Pilgrim Press"
 published: "2008"
 asin: "0829816070"
-authors: 
+authors:
   - karin-a-case
 
   - robin-hawley-gorsline

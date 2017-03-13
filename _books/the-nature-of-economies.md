@@ -1,11 +1,10 @@
 ---
 title: "The Nature of Economies"
 slug: "the-nature-of-economies"
-subtitle: ""
 publisher: "Vintage"
 published: "2001"
 asin: "0375702431"
-authors: 
+authors:
   - jane-jacobs
 started: "2012-08-06"
 start_year: "2012"

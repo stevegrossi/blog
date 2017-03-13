@@ -1,14 +1,14 @@
 <li class="MediaElement Article">
   <img src="{% if book.asin %}http://images.amazon.com/images/P/{{ book.asin }}.01.LZZZZZZZ.jpg{% else %}/img/{{ book.slug }}.jpg{% endif %}" class="MediaElement-media Cover" alt="" />
   <div>
-    {% assign book_post = site.posts | where:"book",book.slug | first %}
+    {% assign book_post = site.posts | where: "book", book.slug | first %}
     {% if book_post and include.should_link == true %}
       <a href="/on/{{ book_post.slug }}" class="Article-title">
         {{ book.title }}
       </a>
     {% else %}
       <span class="Article-title">
-        {{ book.title }}
+        {{ book.title }}{% unless book.subtitle == nil %}: {{ book.subtitle }}{% endunless %}
       </span>
     {% endif %}
     <p class="Article-summary">

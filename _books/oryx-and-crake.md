@@ -1,11 +1,10 @@
 ---
 title: "Oryx and Crake"
 slug: "oryx-and-crake"
-subtitle: ""
 publisher: "Nan A. Talese"
 published: "2003"
 asin: "0385721676"
-authors: 
+authors:
   - margaret-atwood
 started: "2013-09-14"
 start_year: "2013"

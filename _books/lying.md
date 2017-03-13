@@ -1,7 +1,6 @@
 ---
 title: "Lying"
 slug: "lying"
-subtitle: ""
 publisher: "Self-published"
 published: "2011"
 authors:

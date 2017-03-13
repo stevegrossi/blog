@@ -1,11 +1,10 @@
 ---
 title: "Inferno"
 slug: "inferno"
-subtitle: ""
 publisher: "Naxos Audiobooks"
 published: "1317"
 asin: "0385496982"
-authors: 
+authors:
   - dante-alighieri
 started: "2015-04-25"
 start_year: "2015"

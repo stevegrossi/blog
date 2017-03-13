@@ -1,11 +1,10 @@
 ---
 title: "Ready Player One"
 slug: "ready-player-one"
-subtitle: ""
 publisher: "Crown"
 published: "2011"
 asin: "030788743X"
-authors: 
+authors:
   - ernest-cline
 started: "2013-07-19"
 start_year: "2013"

@@ -1,11 +1,10 @@
 ---
 title: "Two Serpents Rise"
 slug: "two-serpents-rise"
-subtitle: ""
 publisher: "Tor Books"
 published: "2013"
 asin: "0765333139"
-authors: 
+authors:
   - max-gladstone
 started: "2015-02-13"
 start_year: "2015"

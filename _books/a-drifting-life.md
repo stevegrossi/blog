@@ -1,11 +1,10 @@
 ---
 title: "A Drifting Life"
 slug: "a-drifting-life"
-subtitle: ""
 publisher: "Drawn and Quarterly"
 published: "2009"
 asin: "1897299745"
-authors: 
+authors:
   - yoshihiro-tatsumi
 started: "2011-04-30"
 start_year: "2011"

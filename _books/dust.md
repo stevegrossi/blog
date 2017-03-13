@@ -1,11 +1,10 @@
 ---
 title: "Dust"
 slug: "dust"
-subtitle: ""
 publisher: "CreateSpace"
 published: "2013"
 asin: "1490904387"
-authors: 
+authors:
   - hugh-howey
 started: "2013-08-27"
 start_year: "2013"

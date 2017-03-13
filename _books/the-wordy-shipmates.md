@@ -1,11 +1,10 @@
 ---
 title: "The Wordy Shipmates"
 slug: "the-wordy-shipmates"
-subtitle: ""
 publisher: "Riverhead"
 published: "2008"
 asin: "B0017SWSUY"
-authors: 
+authors:
   - sarah-vowell
 started: "2013-07-19"
 start_year: "2013"

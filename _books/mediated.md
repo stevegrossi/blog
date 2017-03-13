@@ -1,11 +1,10 @@
 ---
 title: "Mediated"
 slug: "mediated"
-subtitle: ""
 publisher: "Bloomsbury"
 published: "2005"
 asin: "1596910321"
-authors: 
+authors:
   - thomas-de-zengotita
 started: "2010-04-12"
 start_year: "2010"
