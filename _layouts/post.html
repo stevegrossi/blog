@@ -23,6 +23,7 @@ layout: default
 </article>
 
 {% if page.book %}
+  <hr>
   {% assign book = site.books | where: "slug", page.book | first %}
   <footer id="book">
     <ol class="ArticleList">

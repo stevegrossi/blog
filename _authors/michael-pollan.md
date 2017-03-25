@@ -1,3 +1,3 @@
 ---
-title: Michael  Pollan
+title: "Michael Pollan"
 ---
