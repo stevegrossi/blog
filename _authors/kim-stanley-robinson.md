@@ -1,3 +1,3 @@
 ---
-title: Kim Stanley Robinson
+title: "Kim Stanley Robinson"
 ---
