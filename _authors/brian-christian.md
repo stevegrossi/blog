@@ -1,3 +1,3 @@
 ---
-title: Brian  Christian
+title: Brian Christian
 ---
