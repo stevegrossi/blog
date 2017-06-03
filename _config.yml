@@ -71,3 +71,4 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - lib/
