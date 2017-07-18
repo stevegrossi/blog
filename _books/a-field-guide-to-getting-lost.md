@@ -8,5 +8,5 @@ authors:
   - rebecca-solnit
 started: "2017-02-08"
 start_year: "2017"
-finished: ""
+finished: "2017-07-18"
 ---
