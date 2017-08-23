@@ -8,5 +8,5 @@ authors:
   - patrick-rothfuss
 started: "2017-08-04"
 start_year: "2017"
-finished: ""
+finished: "2017-08-23"
 ---
