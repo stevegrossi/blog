@@ -8,5 +8,5 @@ authors:
   - philip-k-dick
 started: "2017-10-06"
 start_year: "2017"
-finished: ""
+finished: "2017-10-15"
 ---
