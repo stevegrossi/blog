@@ -9,5 +9,5 @@ authors:
   - thich-nhat-hanh
 started: "2017-10-21"
 start_year: "2017"
-finished: ""
+finished: "2017-11-08"
 ---
