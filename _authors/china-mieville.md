@@ -1,3 +1,3 @@
 ---
-title: China  Miéville
+title: China Miéville
 ---
