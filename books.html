@@ -3,8 +3,6 @@ permalink: /on/books/
 description: Writing about books helps me figure out what I think about them.
 ---
 
-<h1 class="Title">Everything I’ve Read</h1>
-
 {% assign unfinished_books = site.books | where_exp: "book", "book.finished == nil" | sort: "started" %}
 
 <h2 class="u-centered">Currently Reading</h2>
