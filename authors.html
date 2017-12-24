@@ -9,7 +9,7 @@ permalink: /on/books/by/
   {% for author in site.authors %}
   <li>
     <a href="/on/books/by/{{ author.slug }}">{{ author.title }}</a>
-    {% assign books_count = site.books | where_exp:"book","book.authors contains author.slug" | size %}
+    {% assign books_count = site.books | where_exp: "book", "book.authors contains author.slug" | size %}
     ({{ books_count }})
   </li>
   {% endfor %}
