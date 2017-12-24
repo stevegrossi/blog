@@ -9,5 +9,5 @@ authors:
   - robin-hawley-gorsline
   - jennifer-harvey
 started: "2017-01-15"
-finished: ""
+finished:
 ---

@@ -5,7 +5,25 @@ description: Writing about books helps me figure out what I think about them.
 
 <h1 class="Title">Everything I’ve Read</h1>
 
-{% assign books_by_year = site.books | sort: "started" | group_by_exp: "book", "book.started | slice: 0, 4" | reverse %}
+{% assign unfinished_books = site.books | where_exp: "book", "book.finished == nil" | sort: "started" %}
+
+<h2 class="u-centered">Currently Reading</h2>
+<ol class="ThumbList">
+{% for book in unfinished_books %}
+  <li class="ThumbList-item">
+    {% assign book_post = site.posts | where: "book", book.slug | first %}
+    {% if book_post %}
+      <a href="/on/{{ book_post.slug }}">
+        <img src="{% if book.asin %}http://images.amazon.com/images/P/{{ book.asin }}.01.LZZZZZZZ.jpg{% else %}/img/{{ book.slug }}.jpg{% endif %}" class="ThumbList-thumb Cover" />
+      </a>
+    {% else %}
+      <img src="{% if book.asin %}http://images.amazon.com/images/P/{{ book.asin }}.01.LZZZZZZZ.jpg{% else %}/img/{{ book.slug }}.jpg{% endif %}" class="ThumbList-thumb Cover" />
+    {% endif %}
+  </li>
+{% endfor %}
+</ol>
+
+{% assign books_by_year = site.books | where_exp: "book", "book.finished" | sort: "started" | group_by_exp: "book", "book.started | slice: 0, 4" | reverse %}
 
 {% for book_year in books_by_year %}
   <h2 class="u-centered">{{ book_year.name }}</h2>

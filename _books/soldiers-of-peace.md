@@ -7,5 +7,5 @@ asin: "1632260832"
 authors:
   - paul-k-chappell
 started: "2017-11-12"
-finished: ""
+finished:
 ---
