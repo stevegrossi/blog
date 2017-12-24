@@ -9,6 +9,5 @@ authors:
 
   - gerald-jay-sussman
 started: "2015-04-23"
-start_year: "2015"
 finished: ""
 ---

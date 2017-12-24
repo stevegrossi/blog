@@ -7,6 +7,5 @@ asin: "0312282990"
 authors:
   - michael-chabon
 started: "2011-04-10"
-start_year: "2011"
 finished: "2011-04-10"
 ---

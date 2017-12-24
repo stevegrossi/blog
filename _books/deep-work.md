@@ -8,6 +8,5 @@ asin: "1455586692"
 authors:
   - cal-newport
 started: "2017-05-22"
-start_year: "2017"
 finished: "2017-07-03"
 ---

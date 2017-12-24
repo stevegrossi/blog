@@ -5,9 +5,8 @@ subtitle: "How Our Family Moved to France, Cured Picky Eating, Banned Snacking, 
 publisher: "William Morrow"
 published: "2012"
 asin: "006210330X"
-authors: 
+authors:
   - karen-le-billon
 started: "2015-09-20"
-start_year: "2015"
 finished: "2015-09-27"
 ---

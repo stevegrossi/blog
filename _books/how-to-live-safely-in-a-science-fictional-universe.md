@@ -7,6 +7,5 @@ asin: "0307379205"
 authors:
   - charles-yu
 started: "2011-12-18"
-start_year: "2011"
 finished: "2011-12-18"
 ---

@@ -7,6 +7,5 @@ asin: "1931520720"
 authors:
   - ted-chiang
 started: "2013-09-09"
-start_year: "2013"
 finished: "2013-09-17"
 ---

@@ -7,6 +7,5 @@ asin: "088784636X"
 authors:
   - ursula-m-franklin
 started: "2015-02-26"
-start_year: "2015"
 finished: "2015-04-11"
 ---

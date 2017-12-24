@@ -7,6 +7,5 @@ asin: "0618620117"
 authors:
   - jonah-lehrer
 started: "2010-10-06"
-start_year: "2010"
 finished: "2010-10-06"
 ---

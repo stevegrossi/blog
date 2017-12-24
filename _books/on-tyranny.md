@@ -8,6 +8,5 @@ asin: "0804190119"
 authors:
   - timothy-snyder
 started: "2017-06-01"
-start_year: "2017"
 finished:
 ---

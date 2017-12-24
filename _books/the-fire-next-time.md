@@ -7,6 +7,5 @@ asin: "067974472X"
 authors:
   - james-baldwin
 started: "2016-12-12"
-start_year: "2016"
 finished: "2016-12-21"
 ---

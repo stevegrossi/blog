@@ -7,6 +7,5 @@ asin: "0440180295"
 authors:
   - kurt-vonnegut
 started: "2016-05-08"
-start_year: "2016"
 finished: "2016-05-26"
 ---

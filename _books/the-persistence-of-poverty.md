@@ -7,6 +7,5 @@ asin: "0300120907"
 authors:
   - charles-karelis
 started: "2011-02-14"
-start_year: "2011"
 finished: "2011-02-14"
 ---

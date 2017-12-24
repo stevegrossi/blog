@@ -7,6 +7,5 @@ asin: "1416556966"
 authors:
   - ursula-k-leguin
 started: "2016-10-24"
-start_year: "2016"
 finished: "2016-11-02"
 ---

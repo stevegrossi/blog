@@ -7,6 +7,5 @@ asin: "0688053394"
 authors:
   - christopher-hibbert
 started: "2014-03-14"
-start_year: "2014"
 finished: "2014-04-30"
 ---

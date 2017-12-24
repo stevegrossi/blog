@@ -7,6 +7,5 @@ asin: "1439167346"
 authors:
   - dale-carnegie
 started: "2015-10-28"
-start_year: "2015"
 finished: "2015-11-23"
 ---

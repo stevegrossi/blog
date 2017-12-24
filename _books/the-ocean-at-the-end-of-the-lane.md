@@ -7,6 +7,5 @@ asin: "0062255657"
 authors:
   - neil-gaiman
 started: "2013-08-05"
-start_year: "2013"
 finished: "2013-08-08"
 ---

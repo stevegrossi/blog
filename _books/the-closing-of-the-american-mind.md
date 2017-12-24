@@ -7,6 +7,5 @@ asin: "0671657151"
 authors:
   - allan-bloom
 started: "2011-03-02"
-start_year: "2011"
 finished: "2011-03-02"
 ---

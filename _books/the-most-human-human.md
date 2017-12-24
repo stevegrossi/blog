@@ -5,9 +5,8 @@ subtitle: "What Talking with Computers Teaches Us About What It Means to Be Aliv
 publisher: "Doubleday"
 published: "2011"
 asin: "0385533063"
-authors: 
+authors:
   - brian-christian
 started: "2011-10-02"
-start_year: "2011"
 finished: "2011-10-02"
 ---

@@ -7,6 +7,5 @@ asin: "1933517573"
 authors:
   - mary-ruefle
 started: "2014-06-29"
-start_year: "2014"
 finished: "2014-12-15"
 ---

@@ -8,6 +8,5 @@ asin: "0674003128"
 authors:
   - richard-rorty
 started: "2017-06-24"
-start_year: "2017"
 finished: "2017-06-27"
 ---

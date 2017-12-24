@@ -7,6 +7,5 @@ asin: "039360909X"
 authors:
   - neil-gaiman
 started: "2017-09-21"
-start_year: "2017"
 finished: "2017-10-04"
 ---

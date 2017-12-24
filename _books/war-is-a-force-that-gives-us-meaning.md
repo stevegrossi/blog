@@ -7,6 +7,5 @@ asin: "1586480499"
 authors:
   - chris-hedges
 started: "2011-05-23"
-start_year: "2011"
 finished: "2011-05-23"
 ---

@@ -5,9 +5,8 @@ subtitle: "A Natural History of Four Meals"
 publisher: "Penguin Press"
 published: "2006"
 asin: "1594200823"
-authors: 
+authors:
   - michael-pollan
 started: "2012-07-15"
-start_year: "2012"
 finished: "2012-07-15"
 ---

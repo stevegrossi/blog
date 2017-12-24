@@ -5,9 +5,8 @@ subtitle: "11 Practices of an Effective Technical Leader"
 publisher: "Self-published"
 published: "2013"
 asin: "0990702804"
-authors: 
+authors:
   - david-bryant-copeland
 started: "2015-08-23"
-start_year: "2015"
 finished: "2015-09-01"
 ---

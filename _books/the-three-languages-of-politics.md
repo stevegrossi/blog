@@ -7,6 +7,5 @@ asin: "B00CCGF81Q"
 authors:
   - arnold-kling
 started: "2014-05-18"
-start_year: "2014"
 finished: "2014-05-18"
 ---

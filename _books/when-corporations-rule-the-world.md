@@ -7,6 +7,5 @@ asin: "1887208046"
 authors:
   - david-c-korten
 started: "2010-10-21"
-start_year: "2010"
 finished: "2010-10-21"
 ---

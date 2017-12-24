@@ -7,6 +7,5 @@ asin: "0345486455"
 authors:
   - marc-weissbluth
 started: "2016-04-30"
-start_year: "2016"
 finished: ""
 ---

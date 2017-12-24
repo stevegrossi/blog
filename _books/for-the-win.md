@@ -7,6 +7,5 @@ asin: "0765322161"
 authors:
   - cory-doctorow
 started: "2011-03-23"
-start_year: "2011"
 finished: "2011-03-23"
 ---

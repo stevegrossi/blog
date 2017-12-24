@@ -8,6 +8,5 @@ asin: "0553351397"
 authors:
   - thich-nhat-hanh
 started: "2017-10-21"
-start_year: "2017"
 finished: "2017-11-08"
 ---

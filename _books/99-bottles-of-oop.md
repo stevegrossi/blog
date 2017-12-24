@@ -8,6 +8,5 @@ authors:
   - sandi-metz
   - katrina-owen
 started: "2017-08-14"
-start_year: "2017"
 finished: "2017-08-20"
 ---

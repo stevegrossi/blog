@@ -7,6 +7,5 @@ asin: "1612191290"
 authors:
   - david-graeber
 started: "2012-03-06"
-start_year: "2012"
 finished: "2013-06-16"
 ---

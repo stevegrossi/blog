@@ -5,9 +5,8 @@ subtitle: "A Biography of Cancer"
 publisher: "Scribner"
 published: "2010"
 asin: "1439107955"
-authors: 
+authors:
   - siddhartha-mukherjee
 started: "2011-03-11"
-start_year: "2011"
 finished: "2011-03-11"
 ---

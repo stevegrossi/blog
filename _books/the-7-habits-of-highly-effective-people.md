@@ -7,6 +7,5 @@ asin: "1476740054"
 authors:
   - stephen-r-covey
 started: "2016-12-03"
-start_year: "2016"
 finished: "2017-02-16"
 ---

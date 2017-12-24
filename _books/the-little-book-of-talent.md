@@ -5,9 +5,8 @@ subtitle: "52 Tips for Improving Your Skills"
 publisher: "Bantam"
 published: "2012"
 asin: "034553025X"
-authors: 
+authors:
   - daniel-coyle
 started: "2015-12-11"
-start_year: "2015"
 finished: "2015-12-13"
 ---

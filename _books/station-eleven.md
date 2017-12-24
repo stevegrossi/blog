@@ -7,6 +7,5 @@ asin: "B00J1IQUYM"
 authors:
   - emily-st-john-mandel
 started: "2017-07-10"
-start_year: "2017"
 finished: "2017-07-23"
 ---

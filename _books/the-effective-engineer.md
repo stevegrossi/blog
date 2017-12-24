@@ -8,6 +8,5 @@ asin: "0996128107"
 authors:
   - edmond-lau
 started: "2017-10-19"
-start_year: "2017"
 finished: ""
 ---
