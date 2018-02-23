@@ -7,5 +7,5 @@ asin: "0671657135"
 authors:
   - marvin-minsky
 started: "2016-06-08"
-finished:
+finished: "2018-02-23"
 ---
