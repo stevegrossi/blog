@@ -1,3 +1,0 @@
----
-title: Gerald Jay Sussman
----
