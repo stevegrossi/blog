@@ -8,5 +8,5 @@ asin: "0143039881"
 authors:
   - hannah-arendt
 started: "2018-03-06"
-finished:
+finished: "2018-04-08"
 ---
