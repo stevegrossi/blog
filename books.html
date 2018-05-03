@@ -12,10 +12,10 @@ description: Writing about books helps me figure out what I think about them.
     {% assign book_post = site.posts | where: "book", book.slug | first %}
     {% if book_post %}
       <a href="/on/{{ book_post.slug }}">
-        <img src="{% if book.asin %}http://images.amazon.com/images/P/{{ book.asin }}.01.LZZZZZZZ.jpg{% else %}/img/{{ book.slug }}.jpg{% endif %}" class="ThumbList-thumb Cover" />
+        <img src="{% if book.asin %}//images-na.ssl-images-amazon.com/images/P/{{ book.asin }}.01.LZZZZZZZ.jpg{% else %}/img/{{ book.slug }}.jpg{% endif %}" class="ThumbList-thumb Cover" />
       </a>
     {% else %}
-      <img src="{% if book.asin %}http://images.amazon.com/images/P/{{ book.asin }}.01.LZZZZZZZ.jpg{% else %}/img/{{ book.slug }}.jpg{% endif %}" class="ThumbList-thumb Cover" />
+      <img src="{% if book.asin %}//images-na.ssl-images-amazon.com/images/P/{{ book.asin }}.01.LZZZZZZZ.jpg{% else %}/img/{{ book.slug }}.jpg{% endif %}" class="ThumbList-thumb Cover" />
     {% endif %}
   </li>
 {% endfor %}
@@ -31,10 +31,10 @@ description: Writing about books helps me figure out what I think about them.
       {% assign book_post = site.posts | where: "book", book.slug | first %}
       {% if book_post %}
         <a href="/on/{{ book_post.slug }}">
-          <img src="{% if book.asin %}http://images.amazon.com/images/P/{{ book.asin }}.01.LZZZZZZZ.jpg{% else %}/img/{{ book.slug }}.jpg{% endif %}" class="ThumbList-thumb Cover" />
+          <img src="{% if book.asin %}//images-na.ssl-images-amazon.com/images/P/{{ book.asin }}.01.LZZZZZZZ.jpg{% else %}/img/{{ book.slug }}.jpg{% endif %}" class="ThumbList-thumb Cover" />
         </a>
       {% else %}
-        <img src="{% if book.asin %}http://images.amazon.com/images/P/{{ book.asin }}.01.LZZZZZZZ.jpg{% else %}/img/{{ book.slug }}.jpg{% endif %}" class="ThumbList-thumb Cover" />
+        <img src="{% if book.asin %}//images-na.ssl-images-amazon.com/images/P/{{ book.asin }}.01.LZZZZZZZ.jpg{% else %}/img/{{ book.slug }}.jpg{% endif %}" class="ThumbList-thumb Cover" />
       {% endif %}
     </li>
   {% endfor %}

@@ -1,5 +1,5 @@
 <li class="MediaElement Article">
-  <img src="{% if book.asin %}http://images.amazon.com/images/P/{{ book.asin }}.01.LZZZZZZZ.jpg{% else %}/img/{{ book.slug }}.jpg{% endif %}" class="MediaElement-media Cover" alt="" />
+  <img src="{% if book.asin %}//images-na.ssl-images-amazon.com/images/P/{{ book.asin }}.01.LZZZZZZZ.jpg{% else %}/img/{{ book.slug }}.jpg{% endif %}" class="MediaElement-media Cover" alt="" />
   <div>
     {% assign book_post = site.posts | where: "book", book.slug | first %}
     {% if book_post and include.should_link == true %}
