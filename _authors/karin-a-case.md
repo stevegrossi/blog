@@ -1,3 +1,0 @@
----
-title: Karin A. Case
----
