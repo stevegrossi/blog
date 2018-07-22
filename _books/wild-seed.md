@@ -7,5 +7,5 @@ asin: "B008HALNFQ"
 authors:
   - octavia-e-butler
 started: "2018-05-10"
-finished:
+finished: "2018-07-21"
 ---
