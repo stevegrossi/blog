@@ -6,7 +6,7 @@ layout: default
   {% if page.book %}
     <a class="Cover" href="#book">
       {% assign book = site.books | where: "slug", page.book | first %}
-      <img src="{% if book.asin %}//images-na.ssl-images-amazon.com/images/P/{{ book.asin }}.01.LZZZZZZZ.jpg{% else %}/img/{{ book.slug }}.jpg{% endif %}" alt="" width="100" />
+      <img src="{% if book.asin %}https://images-na.ssl-images-amazon.com/images/P/{{ book.asin }}.01.LZZZZZZZ.jpg{% else %}/img/{{ book.slug }}.jpg{% endif %}" alt="" width="100" />
     </a>
   {% endif %}
   <div>
