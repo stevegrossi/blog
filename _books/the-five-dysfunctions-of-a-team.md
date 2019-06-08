@@ -3,7 +3,7 @@ title: "The Five Dysfunctions of a Team"
 slug: "the-five-dysfunctions-of-a-team"
 publisher: "Jossey-Bass"
 published: "2002"
-asin: "0787960756"
+asin: "B006960LQW"
 authors:
   - patrick-lencioni
 started: "2019-03-06"
