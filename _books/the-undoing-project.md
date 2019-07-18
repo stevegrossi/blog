@@ -7,5 +7,5 @@ asin: "0393354776"
 authors:
   - michael-lewis
 started: "2019-06-01"
-finished:
+finished: "2019-07-18"
 ---
