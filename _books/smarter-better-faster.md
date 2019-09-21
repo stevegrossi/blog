@@ -8,5 +8,5 @@ asin: "B00Z3FRYB0"
 authors:
   - charles-duhigg
 started: "2019-07-06"
-finished:
+finished: "2019-09-21"
 ---
