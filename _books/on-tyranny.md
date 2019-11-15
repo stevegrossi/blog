@@ -7,6 +7,6 @@ published: "2017"
 asin: "0804190119"
 authors:
   - timothy-snyder
-started: "2017-06-01"
-finished:
+started: "2019-11-13"
+finished: "2019-11-15"
 ---
