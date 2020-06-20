@@ -1,5 +1,6 @@
 ---
 title: "The Phoenix Project"
+subtitle: "A Novel about IT, DevOps, and Helping Your Business Win"
 slug: "the-phoenix-project"
 publisher: "IT Revolution Press"
 published: "2013"
