@@ -8,5 +8,5 @@ asin: "B07QT9QR41"
 authors:
   - gene-kim
 started: "2020-06-10"
-finished:
+finished: "2020-06-20"
 ---
