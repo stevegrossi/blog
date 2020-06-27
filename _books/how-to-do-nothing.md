@@ -1,6 +1,5 @@
 ---
 title: "How to Do Nothing"
-slug: "how-to-do-nothing"
 subtitle: "Resisting the Attention Economy"
 publisher: "Melville House"
 published: "2019"

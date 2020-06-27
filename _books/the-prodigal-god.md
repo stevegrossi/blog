@@ -1,6 +1,5 @@
 ---
 title: "The Prodigal God"
-slug: "the-prodigal-god"
 subtitle: "Recovering the Heart of the Christian Faith"
 publisher: "Dutton Adult"
 published: "2008"

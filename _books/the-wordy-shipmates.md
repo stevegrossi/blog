@@ -1,6 +1,5 @@
 ---
 title: "The Wordy Shipmates"
-slug: "the-wordy-shipmates"
 publisher: "Riverhead"
 published: "2008"
 asin: "B0017SWSUY"

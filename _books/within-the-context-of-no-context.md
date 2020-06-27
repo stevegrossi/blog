@@ -1,6 +1,5 @@
 ---
 title: "Within The Context of No Context"
-slug: "within-the-context-of-no-context"
 publisher: "Atlantic Monthly Press"
 published: "1997"
 asin: "0871136740"

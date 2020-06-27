@@ -1,6 +1,5 @@
 ---
 title: "Men Explain Things to Me"
-slug: "men-explain-things-to-me"
 publisher: "Haymarket"
 published: "2014"
 asin: "1608464660"

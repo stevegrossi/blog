@@ -1,6 +1,5 @@
 ---
 title: "The Diamond Age"
-slug: "the-diamond-age"
 subtitle: "Or, A Young Lady’s Illustrated Primer"
 publisher: "Bantam Spectra"
 published: "1995"

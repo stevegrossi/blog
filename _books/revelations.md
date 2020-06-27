@@ -1,6 +1,5 @@
 ---
 title: "Revelations"
-slug: "revelations"
 subtitle: "Visions, Prophecy, and Politics in the Book of Revelation"
 publisher: "Viking"
 published: "2012"

@@ -1,6 +1,5 @@
 ---
 title: "Virtual Light"
-slug: "virtual-light"
 publisher: "Bantam Spectra"
 published: "1993"
 asin: "0553566067"

@@ -1,6 +1,5 @@
 ---
 title: "The Righteous Mind"
-slug: "the-righteous-mind"
 subtitle: "Why Good People are Divided by Politics and Religion"
 publisher: "Pantheon Books"
 published: "2012"

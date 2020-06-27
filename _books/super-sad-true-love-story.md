@@ -1,6 +1,5 @@
 ---
 title: "Super Sad True Love Story"
-slug: "super-sad-true-love-story"
 publisher: "Random House"
 published: "2010"
 asin: "0812977866"

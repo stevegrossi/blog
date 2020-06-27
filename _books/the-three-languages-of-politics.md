@@ -1,6 +1,5 @@
 ---
 title: "The Three Languages of Politics"
-slug: "the-three-languages-of-politics"
 publisher: "Self"
 published: "2013"
 asin: "B00CCGF81Q"

@@ -1,6 +1,5 @@
 ---
 title: "The Quantum Thief"
-slug: "the-quantum-thief"
 publisher: "Tor"
 published: "2011"
 asin: "0765367661"

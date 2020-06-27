@@ -1,6 +1,5 @@
 ---
 title: "The Windup Girl"
-slug: "the-windup-girl"
 publisher: "Night Shade Books"
 published: "2010"
 asin: "1597801585"

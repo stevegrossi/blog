@@ -1,6 +1,5 @@
 ---
 title: "A Christmas Carol"
-slug: "a-christmas-carol"
 publisher: "J.B. Lippincott Company"
 published: "1915"
 asin: "0486268659"

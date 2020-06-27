@@ -1,6 +1,5 @@
 ---
 title: "The Omnivore’s Dilemma"
-slug: "the-omnivore-s-dilemma"
 subtitle: "A Natural History of Four Meals"
 publisher: "Penguin Press"
 published: "2006"

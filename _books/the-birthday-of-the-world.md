@@ -1,6 +1,5 @@
 ---
 title: "The Birthday of the World"
-slug: "the-birthday-of-the-world"
 publisher: "Harper"
 published: "2002"
 asin: "0060509066"

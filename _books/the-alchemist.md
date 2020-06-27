@@ -1,6 +1,5 @@
 ---
 title: "The Alchemist"
-slug: "the-alchemist"
 publisher: "Subterranean"
 published: "2011"
 asin: "159606353X"

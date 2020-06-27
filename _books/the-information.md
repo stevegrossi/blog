@@ -1,6 +1,5 @@
 ---
 title: "The Information"
-slug: "the-information"
 subtitle: "A History, A Theory, A Flood"
 publisher: "Pantheon Books"
 published: "2011"

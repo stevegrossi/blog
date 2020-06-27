@@ -1,6 +1,5 @@
 ---
 title: "Samurai William"
-slug: "samurai-william"
 publisher: "Penguin"
 published: "2002"
 asin: "0142003786"

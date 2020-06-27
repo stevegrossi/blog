@@ -1,6 +1,5 @@
 ---
 title: "The Thin Book of Appreciative Inquiry"
-slug: "the-thin-book-of-appreciative-inquiry"
 publisher: "Thin Book Publishing"
 published: "2013"
 asin: "0988953803"

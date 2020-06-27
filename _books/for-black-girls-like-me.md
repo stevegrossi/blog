@@ -1,6 +1,5 @@
 ---
 title: "For Black Girls Like Me"
-slug: "for-black-girls-like-me"
 publisher: "Farrar, Straus and Giroux"
 published: "2019"
 asin: "0374308047"

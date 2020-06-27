@@ -1,6 +1,5 @@
 ---
 title: "Oryx and Crake"
-slug: "oryx-and-crake"
 publisher: "Nan A. Talese"
 published: "2003"
 asin: "0385721676"

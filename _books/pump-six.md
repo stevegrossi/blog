@@ -1,6 +1,5 @@
 ---
 title: "Pump Six"
-slug: "pump-six"
 publisher: "Night Shade Books"
 published: "2008"
 asin: "159780133X"

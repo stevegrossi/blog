@@ -1,6 +1,5 @@
 ---
 title: "Catching Fire"
-slug: "catching-fire"
 publisher: "Scholastic"
 published: "2010"
 asin: "B003O86FMW"

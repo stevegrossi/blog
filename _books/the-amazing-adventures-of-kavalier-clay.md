@@ -1,6 +1,5 @@
 ---
 title: "The Amazing Adventures of Kavalier & Clay"
-slug: "the-amazing-adventures-of-kavalier-clay"
 publisher: "Picador"
 published: "2001"
 asin: "0312282990"

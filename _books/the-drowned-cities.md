@@ -1,6 +1,5 @@
 ---
 title: "The Drowned Cities"
-slug: "the-drowned-cities"
 publisher: "Little, Brown"
 published: "2012"
 asin: "9780316056243"

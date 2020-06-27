@@ -1,7 +1,6 @@
 ---
 title: "Achieving Our Country"
 subtitle: "Leftist Thought in Twentieth-Century America"
-slug: "achieving-our-country"
 publisher: "Harvard University Press"
 published: "1998"
 asin: "0674003128"

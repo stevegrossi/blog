@@ -1,6 +1,5 @@
 ---
 title: "Seveneves"
-slug: "seveneves"
 publisher: "William Morrow"
 published: "2015"
 asin: "0062190377"

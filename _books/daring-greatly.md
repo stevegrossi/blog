@@ -1,6 +1,5 @@
 ---
 title: "Daring Greatly"
-slug: "daring-greatly"
 subtitle: "How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead"
 publisher: "Avery"
 published: "2012"

@@ -1,6 +1,5 @@
 ---
 title: "Gulp"
-slug: "gulp"
 subtitle: "Adventures on the Alimentary Canal"
 publisher: "W. W. Norton & Company"
 published: "2013"

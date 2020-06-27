@@ -1,6 +1,5 @@
 ---
 title: "How to Fail at Almost Everything and Still Win Big"
-slug: "how-to-fail-at-almost-everything-and-still-win-big"
 subtitle: "Kind of the Story of my Life"
 publisher: "Portfolio"
 published: "2013"

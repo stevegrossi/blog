@@ -1,6 +1,5 @@
 ---
 title: "The Book"
-slug: "the-book"
 subtitle: "On the Taboo Against Knowing Who You Are"
 publisher: "Random House"
 published: "1966"

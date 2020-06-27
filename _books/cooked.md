@@ -1,6 +1,5 @@
 ---
 title: "Cooked"
-slug: "cooked"
 subtitle: "A Natural History of Transformation"
 publisher: "Penguin"
 published: "2013"

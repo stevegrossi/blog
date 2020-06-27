@@ -1,6 +1,5 @@
 ---
 title: "Coders at Work"
-slug: "coders-at-work"
 subtitle: "Reflections on the Craft of Programming"
 publisher: "Apress"
 published: "2009"

@@ -1,6 +1,5 @@
 ---
 title: "The Forever War"
-slug: "the-forever-war"
 publisher: "Avon"
 published: "1997"
 asin: "0312536631"

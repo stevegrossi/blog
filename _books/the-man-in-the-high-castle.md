@@ -1,6 +1,5 @@
 ---
 title: "The Man in the High Castle"
-slug: "the-man-in-the-high-castle"
 publisher: "Putnam"
 published: "1962"
 asin: "0544916085"

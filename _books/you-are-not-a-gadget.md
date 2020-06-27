@@ -1,6 +1,5 @@
 ---
 title: "You Are Not a Gadget"
-slug: "you-are-not-a-gadget"
 subtitle: "A Manifesto"
 publisher: "Knopf"
 published: "2010"

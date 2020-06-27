@@ -1,6 +1,5 @@
 ---
 title: "The Left Hand of Darkness"
-slug: "the-left-hand-of-darkness"
 publisher: "Ace Books"
 published: "1987"
 asin: "0441478123"

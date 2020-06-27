@@ -1,6 +1,5 @@
 ---
 title: "Three Parts Dead"
-slug: "three-parts-dead"
 publisher: "Tor Books"
 published: "2013"
 asin: "0765333112"

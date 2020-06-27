@@ -1,6 +1,5 @@
 ---
 title: "The 48 Laws of Power"
-slug: "the-48-laws-of-power"
 publisher: "Viking Press"
 published: "1998"
 asin: "0140280197"

@@ -1,6 +1,5 @@
 ---
 title: "The Hunger Games"
-slug: "the-hunger-games"
 publisher: "Scholastic Press"
 published: "2009"
 asin: "B002MQYOFW"

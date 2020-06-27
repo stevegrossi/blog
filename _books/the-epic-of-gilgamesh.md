@@ -1,6 +1,5 @@
 ---
 title: "The Epic of Gilgamesh"
-slug: "the-epic-of-gilgamesh"
 publisher: "iUniverse"
 published: "2001"
 asin: "0595178634"

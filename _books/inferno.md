@@ -1,6 +1,5 @@
 ---
 title: "Inferno"
-slug: "inferno"
 publisher: "Naxos Audiobooks"
 published: "1317"
 asin: "0385496982"

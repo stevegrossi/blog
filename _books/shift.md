@@ -1,6 +1,5 @@
 ---
 title: "Shift"
-slug: "shift"
 subtitle: "Volume 2 of the Silo Saga"
 publisher: "Broad Reach Publishing"
 published: "2013"

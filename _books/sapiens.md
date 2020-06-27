@@ -1,6 +1,5 @@
 ---
 title: "Sapiens"
-slug: "sapiens"
 publisher: "HarperCollins"
 published: "2015"
 asin: "B00ICN066A"

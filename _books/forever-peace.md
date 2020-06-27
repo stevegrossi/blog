@@ -1,6 +1,5 @@
 ---
 title: "Forever Peace"
-slug: "forever-peace"
 publisher: "Ace"
 published: "1998"
 asin: "0441005667"

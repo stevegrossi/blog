@@ -1,6 +1,5 @@
 ---
 title: "The Drunkard's Walk"
-slug: "the-drunkard-s-walk"
 subtitle: "How Randomness Rules Our Lives"
 publisher: "Pantheon"
 published: "2008"

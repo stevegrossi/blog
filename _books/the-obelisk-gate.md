@@ -1,6 +1,5 @@
 ---
 title: "The Obelisk Gate"
-slug: "the-obelisk-gate"
 publisher: "Orbit"
 published: "2016"
 asin: "0316229261"

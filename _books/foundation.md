@@ -1,6 +1,5 @@
 ---
 title: "Foundation"
-slug: "foundation"
 publisher: "Gnome Press"
 published: "1952"
 asin: "0553293354"

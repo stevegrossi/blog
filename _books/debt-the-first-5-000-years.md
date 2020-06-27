@@ -1,6 +1,5 @@
 ---
 title: "Debt: The First 5,000 Years"
-slug: "debt-the-first-5-000-years"
 publisher: "Melville House"
 published: "2011"
 asin: "1612191290"

@@ -1,6 +1,5 @@
 ---
 title: "The Senior Software Engineer"
-slug: "the-senior-software-engineer"
 subtitle: "11 Practices of an Effective Technical Leader"
 publisher: "Self-published"
 published: "2013"

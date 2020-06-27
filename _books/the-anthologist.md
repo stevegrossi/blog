@@ -1,6 +1,5 @@
 ---
 title: "The Anthologist"
-slug: "the-anthologist"
 publisher: "Simon and Schuster"
 published: "2009"
 asin: "1416572449"

@@ -1,6 +1,5 @@
 ---
 title: "Guns, Germs, and Steel"
-slug: "guns-germs-and-steel"
 subtitle: "The Fates of Human Societies"
 publisher: "W. W. Norton and Co."
 published: "2005"

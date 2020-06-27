@@ -1,6 +1,5 @@
 ---
 title: "The Architecture of Happiness"
-slug: "the-architecture-of-happiness"
 publisher: "Vintage"
 published: "2008"
 asin: "0307277240"

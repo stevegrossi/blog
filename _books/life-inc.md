@@ -1,6 +1,5 @@
 ---
 title: "Life, Inc."
-slug: "life-inc"
 subtitle: "How Corporatism Conquered the World, and How We Can Take It Back"
 publisher: "Random House"
 published: "2009"

@@ -1,7 +1,6 @@
 ---
 title: "Wherever You Go, There You Are"
 subtitle: "Mindfulness Meditation in Everyday Life"
-slug: "wherever-you-go-there-you-are"
 publisher: "Hachette"
 published: "2005"
 asin: "1401307787"

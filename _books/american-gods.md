@@ -1,6 +1,5 @@
 ---
 title: "American Gods"
-slug: "american-gods"
 publisher: "William Morrow"
 published: "2001"
 asin: "0380789035"

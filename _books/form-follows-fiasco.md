@@ -1,6 +1,5 @@
 ---
 title: "Form Follows Fiasco"
-slug: "form-follows-fiasco"
 publisher: "Atlantic Monthly Press"
 published: "1974"
 authors:

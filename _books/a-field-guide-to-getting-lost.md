@@ -1,6 +1,5 @@
 ---
 title: "A Field Guide to Getting Lost"
-slug: "a-field-guide-to-getting-lost"
 publisher: "Viking"
 published: "2005"
 asin: "0143037242"

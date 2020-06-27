@@ -1,6 +1,5 @@
 ---
 title: "For Whom the Bell Tolls"
-slug: "for-whom-the-bell-tolls"
 publisher: "Scribner"
 published: "1940"
 asin: "0684803356"

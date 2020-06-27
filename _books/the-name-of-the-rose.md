@@ -1,6 +1,5 @@
 ---
 title: "The Name of the Rose"
-slug: "the-name-of-the-rose"
 publisher: "Harcourt"
 published: "1983"
 asin: "0544176561"

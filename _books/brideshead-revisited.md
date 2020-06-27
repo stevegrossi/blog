@@ -1,6 +1,5 @@
 ---
 title: "Brideshead Revisited"
-slug: "brideshead-revisited"
 publisher: "Chapman and Hall"
 published: "1945"
 asin: "0316216453"

@@ -1,6 +1,5 @@
 ---
 title: "Player Piano"
-slug: "player-piano"
 publisher: "Charles Scribner's Sons"
 published: "1952"
 asin: "0385333781"

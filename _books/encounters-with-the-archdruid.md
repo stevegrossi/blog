@@ -1,7 +1,6 @@
 ---
 title: "Encounters With the Archdruid"
 subtitle: "Narratives About a Conservationist and Three of His Natural Enemies"
-slug: "encounters-with-the-archdruid"
 publisher: "Farrar, Straus and Giroux"
 published: "1971"
 asin: "0374148228"

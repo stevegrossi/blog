@@ -1,6 +1,5 @@
 ---
 title: "When Nietzsche Wept"
-slug: "when-nietzsche-wept"
 subtitle: "A Novel of Obsession"
 publisher: "HarperCollins"
 published: "1992"

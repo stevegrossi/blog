@@ -1,6 +1,5 @@
 ---
 title: "Anansi Boys"
-slug: "anansi-boys"
 publisher: "Morrow"
 published: "2005"
 asin: "0061342394"

@@ -1,6 +1,5 @@
 ---
 title: "Palm Sunday"
-slug: "palm-sunday"
 subtitle: "An Autobiographical Collage"
 publisher: "Dell"
 published: "1981"

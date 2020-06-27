@@ -1,6 +1,5 @@
 ---
 title: "Cat’s Cradle"
-slug: "cat-s-cradle"
 publisher: "Holt, Rinehart and Winston"
 published: "1963"
 asin: "038533348X"

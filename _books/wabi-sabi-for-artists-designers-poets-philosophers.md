@@ -1,6 +1,5 @@
 ---
 title: "Wabi-Sabi for Artists, Designers, Poets & Philosophers"
-slug: "wabi-sabi-for-artists-designers-poets-philosophers"
 publisher: "Stone Bridge Press"
 published: "1994"
 asin: "1880656124"

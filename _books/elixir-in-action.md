@@ -1,6 +1,5 @@
 ---
 title: "Elixir in Action"
-slug: "elixir-in-action"
 publisher: "Manning Publications"
 published: "2015"
 asin: "161729201X"

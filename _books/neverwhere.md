@@ -1,6 +1,5 @@
 ---
 title: "Neverwhere"
-slug: "neverwhere"
 publisher: "BBC Books"
 published: "1996"
 asin: "0380789019"

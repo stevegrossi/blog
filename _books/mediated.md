@@ -1,6 +1,5 @@
 ---
 title: "Mediated"
-slug: "mediated"
 publisher: "Bloomsbury"
 published: "2005"
 asin: "1596910321"

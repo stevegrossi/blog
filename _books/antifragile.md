@@ -1,7 +1,6 @@
 ---
 title: "Antifragile"
 subtitle: "Things That Gain from Disorder"
-slug: "antifragile"
 publisher: "Random House"
 published: "2012"
 asin: "1400067820"

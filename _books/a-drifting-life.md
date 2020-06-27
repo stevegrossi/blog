@@ -1,6 +1,5 @@
 ---
 title: "A Drifting Life"
-slug: "a-drifting-life"
 publisher: "Drawn and Quarterly"
 published: "2009"
 asin: "1897299745"

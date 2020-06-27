@@ -1,6 +1,5 @@
 ---
 title: "The Handbook"
-slug: "the-handbook"
 publisher: "Hackett CLassics"
 published: "1983"
 asin: "0915145693"

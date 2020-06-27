@@ -1,6 +1,5 @@
 ---
 title: "The Fifth Season"
-slug: "the-fifth-season"
 publisher: "Orbit"
 published: "2015"
 asin: "0316229296"

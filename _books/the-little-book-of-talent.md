@@ -1,6 +1,5 @@
 ---
 title: "The Little Book of Talent"
-slug: "the-little-book-of-talent"
 subtitle: "52 Tips for Improving Your Skills"
 publisher: "Bantam"
 published: "2012"

@@ -1,6 +1,5 @@
 ---
 title: "Madness, Rack, and Honey"
-slug: "madness-rack-and-honey"
 publisher: "Wave Books"
 published: "2012"
 asin: "1933517573"

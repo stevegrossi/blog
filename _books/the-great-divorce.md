@@ -1,6 +1,5 @@
 ---
 title: "The Great Divorce"
-slug: "the-great-divorce"
 publisher: "HarperOne"
 published: "2009"
 asin: "0061774197"

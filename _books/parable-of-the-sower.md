@@ -1,6 +1,5 @@
 ---
 title: "Parable of the Sower"
-slug: "parable-of-the-sower"
 publisher: "Four Walls Eight Windows"
 published: "1993"
 asin: "0446675504"

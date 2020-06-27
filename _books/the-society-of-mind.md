@@ -1,6 +1,5 @@
 ---
 title: "The Society of Mind"
-slug: "the-society-of-mind"
 publisher: "Simon & Schuster"
 published: "1986"
 asin: "0671657135"

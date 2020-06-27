@@ -1,6 +1,5 @@
 ---
 title: "War is a Force that Gives Us Meaning"
-slug: "war-is-a-force-that-gives-us-meaning"
 publisher: "PublicAffairs"
 published: "2002"
 asin: "1586480499"

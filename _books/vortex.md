@@ -1,6 +1,5 @@
 ---
 title: "Vortex"
-slug: "vortex"
 publisher: "Tor"
 published: "2011"
 asin: "0765363208"

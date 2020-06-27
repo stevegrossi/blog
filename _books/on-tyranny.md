@@ -1,6 +1,5 @@
 ---
 title: "On Tyranny"
-slug: on-tyranny
 subtitle: "Twenty Lessons from the Twentieth Century"
 publisher: "Tim Duggan Books"
 published: "2017"

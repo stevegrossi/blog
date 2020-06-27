@@ -1,6 +1,5 @@
 ---
 title: "A Week at the Airport"
-slug: "a-week-at-the-airport"
 publisher: "Vintage"
 published: "2010"
 asin: "0307739678"

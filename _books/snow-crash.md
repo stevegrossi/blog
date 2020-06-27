@@ -1,6 +1,5 @@
 ---
 title: "Snow Crash"
-slug: "snow-crash"
 publisher: "Spectra"
 published: "1992"
 asin: "0553380958"

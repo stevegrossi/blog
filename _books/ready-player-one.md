@@ -1,6 +1,5 @@
 ---
 title: "Ready Player One"
-slug: "ready-player-one"
 publisher: "Crown"
 published: "2011"
 asin: "030788743X"

@@ -1,6 +1,5 @@
 ---
 title: "Letters to a Young Chef"
-slug: "letters-to-a-young-chef"
 publisher: "Basic Books"
 published: "2003"
 asin: "0465007775"

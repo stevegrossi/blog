@@ -1,6 +1,5 @@
 ---
 title: "The Five Dysfunctions of a Team"
-slug: "the-five-dysfunctions-of-a-team"
 publisher: "Jossey-Bass"
 published: "2002"
 asin: "B006960LQW"

@@ -1,6 +1,5 @@
 ---
 title: "Algorithms to Live By"
-slug: "algorithms-to-live-by"
 subtitle: "The Computer Science of Human Decisions"
 publisher: "Henry Holt and Co."
 published: "2016"

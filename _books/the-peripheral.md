@@ -1,6 +1,5 @@
 ---
 title: "The Peripheral"
-slug: "the-peripheral"
 publisher: "Putnam"
 published: "2014"
 asin: "0399158448"

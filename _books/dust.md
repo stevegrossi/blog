@@ -1,6 +1,5 @@
 ---
 title: "Dust"
-slug: "dust"
 publisher: "CreateSpace"
 published: "2013"
 asin: "1490904387"

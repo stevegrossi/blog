@@ -1,6 +1,5 @@
 ---
 title: "Nothing to Envy"
-slug: "nothing-to-envy"
 subtitle: "Ordinary Lives in North Korea"
 publisher: "Spiegel & Grau"
 published: "2009"

@@ -1,6 +1,5 @@
 ---
 title: "Neuromancer"
-slug: "neuromancer"
 publisher: "Ace"
 published: "1984"
 asin: "0441012035"

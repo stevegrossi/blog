@@ -1,6 +1,5 @@
 ---
 title: "Superintelligence"
-slug: "superintelligence"
 subtitle: "Paths, Dangers, Strategies"
 publisher: "Oxford University Press"
 published: "2014"

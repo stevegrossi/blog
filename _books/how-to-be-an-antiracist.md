@@ -1,6 +1,5 @@
 ---
 title: "How to Be an Antiracist"
-slug: "how-to-be-an-antiracist"
 publisher: "One World"
 published: "2019"
 asin: "B07D2364N5"

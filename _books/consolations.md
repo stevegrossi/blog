@@ -1,6 +1,5 @@
 ---
 title: "Consolations"
-slug: "consolations"
 subtitle: "The Solace, Nourishment, and Underlying Meaning of Everyday Words"
 publisher: "Many Rivers Press"
 published: "2017"

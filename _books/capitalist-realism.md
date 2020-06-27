@@ -1,6 +1,5 @@
 ---
 title: "Capitalist Realism"
-slug: "capitalist-realism"
 subtitle: "Is There No Alternative?"
 publisher: "Zero Books"
 published: "2009"

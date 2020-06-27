@@ -1,6 +1,5 @@
 ---
 title: "You Are Here"
-slug: "you-are-here"
 publisher: "Self-published"
 published: "2015"
 authors:

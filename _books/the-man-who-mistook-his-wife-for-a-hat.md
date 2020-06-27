@@ -1,6 +1,5 @@
 ---
 title: "The Man Who Mistook His Wife for a Hat"
-slug: "the-man-who-mistook-his-wife-for-a-hat"
 subtitle: "And Other Clinical Tales"
 publisher: "Touchstone"
 published: "1998"

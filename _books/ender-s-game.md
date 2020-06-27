@@ -1,6 +1,5 @@
 ---
 title: "Ender’s Game"
-slug: "ender-s-game"
 publisher: "Tor Science Fiction"
 published: "1985"
 asin: "0812550706"

@@ -1,6 +1,5 @@
 ---
 title: "Anathem"
-slug: "anathem"
 publisher: "Harper"
 published: "2009"
 asin: "006147410X"

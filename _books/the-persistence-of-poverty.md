@@ -1,6 +1,5 @@
 ---
 title: "The Persistence of Poverty"
-slug: "the-persistence-of-poverty"
 publisher: "Yale University Press"
 published: "2007"
 asin: "0300120907"

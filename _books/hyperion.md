@@ -1,6 +1,5 @@
 ---
 title: "Hyperion"
-slug: "hyperion"
 publisher: "Spectra"
 published: "1990"
 asin: "0553283685"

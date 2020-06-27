@@ -1,6 +1,5 @@
 ---
 title: "Thinking in Systems"
-slug: "thinking-in-systems"
 subtitle: "A Primer"
 publisher: "Chelsea Green Publishing"
 published: "2008"

@@ -1,6 +1,5 @@
 ---
 title: "Full Fathom Five"
-slug: "full-fathom-five"
 publisher: "Tor"
 published: "2014"
 asin: "0765335743"

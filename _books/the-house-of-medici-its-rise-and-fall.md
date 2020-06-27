@@ -1,6 +1,5 @@
 ---
 title: "The House of Medici: Its Rise and Fall"
-slug: "the-house-of-medici-its-rise-and-fall"
 publisher: "William Morrow Paperbacks"
 published: "1999"
 asin: "0688053394"

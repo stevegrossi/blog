@@ -1,6 +1,5 @@
 ---
 title: "The Consolations of Philosophy"
-slug: "the-consolations-of-philosophy"
 publisher: "Penguin"
 published: "2001"
 asin: "0140276610"

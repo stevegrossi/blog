@@ -1,6 +1,5 @@
 ---
 title: "The Great Gatsby"
-slug: "the-great-gatsby"
 publisher: "Scribner"
 published: "1925"
 asin: "0684801523"

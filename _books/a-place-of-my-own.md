@@ -1,6 +1,5 @@
 ---
 title: "A Place of My Own"
-slug: "a-place-of-my-own"
 subtitle: "The Architecture of Daydreams"
 publisher: "Random House"
 published: "1997"

@@ -1,6 +1,5 @@
 ---
 title: "The Water Knife"
-slug: "the-water-knife"
 publisher: "Knopf"
 published: "2015"
 asin: "0385352875"

@@ -1,6 +1,5 @@
 ---
 title: "The Checklist Manifesto"
-slug: "the-checklist-manifesto"
 subtitle: "How To Get Things Right"
 publisher: "Picador"
 published: "2009"

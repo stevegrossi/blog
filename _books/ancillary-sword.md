@@ -1,6 +1,5 @@
 ---
 title: "Ancillary Sword"
-slug: "ancillary-sword"
 publisher: "Orbit"
 published: "2014"
 asin: "0316246654"

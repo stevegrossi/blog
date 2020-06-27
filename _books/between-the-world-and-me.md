@@ -1,6 +1,5 @@
 ---
 title: "Between the World and Me"
-slug: "between-the-world-and-me"
 publisher: "Spiegel & Grau"
 published: "2015"
 asin: "0812993543"

@@ -1,6 +1,5 @@
 ---
 title: "The Outlaw Sea"
-slug: "the-outlaw-sea"
 subtitle: "A World of Freedom, Chaos, and Crime"
 publisher: "North Point Press"
 published: "2004"

@@ -1,6 +1,5 @@
 ---
 title: "So You Want to Talk About Race"
-slug: "so-you-want-to-talk-about-race"
 publisher: "Seal Press"
 published: "2018"
 asin: "1580056776"

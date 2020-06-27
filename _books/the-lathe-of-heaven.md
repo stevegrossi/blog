@@ -1,6 +1,5 @@
 ---
 title: "The Lathe of Heaven"
-slug: "the-lathe-of-heaven"
 publisher: "Avon"
 published: "1971"
 asin: "1416556966"

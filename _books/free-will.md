@@ -1,6 +1,5 @@
 ---
 title: "Free Will"
-slug: "free-will"
 publisher: "Free Press"
 published: "2012"
 asin: "1451683405"

@@ -1,6 +1,5 @@
 ---
 title: "The Stone Sky"
-slug: "the-stone-sky"
 publisher: "Orbit"
 published: "2017"
 asin: "0316229245"

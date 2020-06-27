@@ -1,6 +1,5 @@
 ---
 title: "A History of the Future in 100 Objects"
-slug: "a-history-of-the-future-in-100-objects"
 publisher: "Self"
 published: "2013"
 asin: "B00EX8QRPM"

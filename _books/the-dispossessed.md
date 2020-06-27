@@ -1,6 +1,5 @@
 ---
 title: "The Dispossessed"
-slug: "the-dispossessed"
 publisher: "HarperCollins"
 published: "1974"
 asin: "B000FC11GA"

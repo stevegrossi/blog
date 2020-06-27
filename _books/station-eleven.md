@@ -1,6 +1,5 @@
 ---
 title: "Station Eleven"
-slug: "station-eleven"
 publisher: "Subterranean"
 published: "2017"
 asin: "B00J1IQUYM"

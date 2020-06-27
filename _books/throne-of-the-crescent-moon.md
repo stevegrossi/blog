@@ -1,6 +1,5 @@
 ---
 title: "Throne of the Crescent Moon"
-slug: "throne-of-the-crescent-moon"
 publisher: "DAW"
 published: "2012"
 asin: "0756407788"

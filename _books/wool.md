@@ -1,6 +1,5 @@
 ---
 title: "Wool"
-slug: "wool"
 publisher: "Simon & Schuster"
 published: "2012"
 asin: "1476733953"

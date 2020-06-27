@@ -1,6 +1,5 @@
 ---
 title: "Quicksilver"
-slug: "quicksilver"
 subtitle: "The Baroque Cycle, Book 1"
 publisher: "William Morrow"
 published: "2003"

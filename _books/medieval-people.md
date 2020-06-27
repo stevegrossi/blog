@@ -1,6 +1,5 @@
 ---
 title: "Medieval People"
-slug: "medieval-people"
 publisher: "Unknown"
 published: "1924"
 asin: "B00849XHLI"

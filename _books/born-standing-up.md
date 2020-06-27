@@ -1,6 +1,5 @@
 ---
 title: "Born Standing Up"
-slug: "born-standing-up"
 publisher: "Scribner"
 published: "2007"
 asin: "1416553657"

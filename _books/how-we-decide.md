@@ -1,6 +1,5 @@
 ---
 title: "How We Decide"
-slug: "how-we-decide"
 publisher: "Houghton Mifflin"
 published: "2009"
 asin: "0618620117"

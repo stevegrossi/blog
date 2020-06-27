@@ -1,6 +1,5 @@
 ---
 title: "Infomocracy"
-slug: "infomocracy"
 publisher: "Tor.com"
 published: "2016"
 asin: "0765392364"

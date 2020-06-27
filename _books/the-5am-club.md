@@ -1,7 +1,6 @@
 ---
 title: "The 5am Club"
 subtitle: "Own Your Morning. Elevate Your Life."
-slug: "the-5am-club"
 publisher: "HarperCollins Publishers"
 published: "2018"
 asin: "1443456624"

@@ -1,6 +1,5 @@
 ---
 title: "The Real World of Technology"
-slug: "the-real-world-of-technology"
 publisher: "Anansi"
 published: "1999"
 asin: "088784636X"

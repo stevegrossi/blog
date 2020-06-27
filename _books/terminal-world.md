@@ -1,6 +1,5 @@
 ---
 title: "Terminal World"
-slug: "terminal-world"
 publisher: "Ace"
 published: "2010"
 asin: "0441020437"

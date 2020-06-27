@@ -1,6 +1,5 @@
 ---
 title: "Do Androids Dream of Electric Sheep?"
-slug: "do-androids-dream-of-electric-sheep"
 publisher: "Doubleday"
 published: "1968"
 asin: "B000SEGTI0"

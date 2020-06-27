@@ -1,6 +1,5 @@
 ---
 title: "Invisible Cities"
-slug: "invisible-cities"
 publisher: "Harcourt Brace Jovanovich"
 published: "1978"
 asin: "0156453800"

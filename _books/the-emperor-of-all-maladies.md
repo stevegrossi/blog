@@ -1,6 +1,5 @@
 ---
 title: "The Emperor of All Maladies"
-slug: "the-emperor-of-all-maladies"
 subtitle: "A Biography of Cancer"
 publisher: "Scribner"
 published: "2010"

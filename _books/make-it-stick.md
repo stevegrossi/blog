@@ -1,6 +1,5 @@
 ---
 title: "Make It Stick"
-slug: "make-it-stick"
 subtitle: "The Science of Successful Learning"
 publisher: "Belknap Press"
 published: "2014"

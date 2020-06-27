@@ -1,6 +1,5 @@
 ---
 title: "Lexicon"
-slug: "lexicon"
 publisher: "Penguin"
 published: "2013"
 asin: "1594205388"

@@ -1,6 +1,5 @@
 ---
 title: "Man’s Search for Meaning"
-slug: "man-s-search-for-meaning"
 publisher: "Beacon Press"
 published: "1946"
 asin: "080701429X"

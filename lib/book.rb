@@ -10,7 +10,6 @@ class Book
     <<~BOOK
       ---
       title: "#{title}"
-      slug: "#{slug}"
       subtitle: "#{subtitle}"
       publisher: ""
       published: ""

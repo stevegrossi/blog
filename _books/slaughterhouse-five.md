@@ -1,6 +1,5 @@
 ---
 title: "Slaughterhouse-Five"
-slug: "slaughterhouse-five"
 publisher: "Delacorte"
 published: "1969"
 asin: "0440180295"

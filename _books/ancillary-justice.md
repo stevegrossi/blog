@@ -1,6 +1,5 @@
 ---
 title: "Ancillary Justice"
-slug: "ancillary-justice"
 publisher: "Orbit"
 published: "2013"
 asin: "031624662X"

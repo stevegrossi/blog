@@ -1,6 +1,5 @@
 ---
 title: "When Corporations Rule the World"
-slug: "when-corporations-rule-the-world"
 publisher: "Berrett-Koehler"
 published: "1995"
 asin: "1887208046"

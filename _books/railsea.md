@@ -1,6 +1,5 @@
 ---
 title: "Railsea"
-slug: "railsea"
 publisher: "Del Rey Books"
 published: "2012"
 asin: "0345524527"

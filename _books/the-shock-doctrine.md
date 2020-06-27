@@ -1,6 +1,5 @@
 ---
 title: "The Shock Doctrine"
-slug: "the-shock-doctrine"
 subtitle: "The Rise of Disaster Capitalism"
 publisher: "Metropolitan Books"
 published: "2007"

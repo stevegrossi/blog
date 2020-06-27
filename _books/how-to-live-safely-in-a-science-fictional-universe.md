@@ -1,6 +1,5 @@
 ---
 title: "How to Live Safely in a Science Fictional Universe"
-slug: "how-to-live-safely-in-a-science-fictional-universe"
 publisher: "Vintage"
 published: "2010"
 asin: "0307379205"

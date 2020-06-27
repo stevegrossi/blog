@@ -1,6 +1,5 @@
 ---
 title: "Collapse"
-slug: "collapse"
 subtitle: "How Societies Choose to Fail or Suceed"
 publisher: "Penguin"
 published: "2004"

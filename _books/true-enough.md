@@ -1,6 +1,5 @@
 ---
 title: "True Enough"
-slug: "true-enough"
 subtitle: "Learning to Live in a Post-Fact Society"
 publisher: "Penguin"
 published: "2001"

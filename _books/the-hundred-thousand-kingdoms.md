@@ -1,6 +1,5 @@
 ---
 title: "The Hundred Thousand Kingdoms"
-slug: "the-hundred-thousand-kingdoms"
 publisher: "Orbit"
 published: "2010"
 asin: "0316043923"

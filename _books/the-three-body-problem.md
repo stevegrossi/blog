@@ -1,6 +1,5 @@
 ---
 title: "The Three-Body Problem"
-slug: "the-three-body-problem"
 publisher: "Tor"
 published: "2014"
 asin: "0765377063"

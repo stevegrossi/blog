@@ -1,6 +1,5 @@
 ---
 title: "Red Mars"
-slug: "red-mars"
 publisher: "Spectra"
 published: "1993"
 asin: "0553560735"

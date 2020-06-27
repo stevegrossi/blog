@@ -1,6 +1,5 @@
 ---
 title: "Religion for Atheists"
-slug: "religion-for-atheists"
 subtitle: "A Non-believer’s Guide to the Uses of Religion"
 publisher: "Pantheon"
 published: "2012"

@@ -1,6 +1,5 @@
 ---
 title: "Axis"
-slug: "axis"
 publisher: "Tor"
 published: "2007"
 asin: "0765348268"

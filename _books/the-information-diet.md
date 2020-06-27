@@ -1,6 +1,5 @@
 ---
 title: "The Information Diet"
-slug: "the-information-diet"
 subtitle: "A Case for Conscious Consumption"
 publisher: "O’Reilly"
 published: "2012"

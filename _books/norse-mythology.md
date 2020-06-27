@@ -1,6 +1,5 @@
 ---
 title: "Norse Mythology"
-slug: "norse-mythology"
 publisher: "W. W. Norton & Co."
 published: "2017"
 asin: "039360909X"

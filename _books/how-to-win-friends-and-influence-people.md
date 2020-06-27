@@ -1,6 +1,5 @@
 ---
 title: "How to Win Friends and Influence People"
-slug: "how-to-win-friends-and-influence-people"
 publisher: "Simon & Schuster"
 published: "1936"
 asin: "1439167346"

@@ -1,6 +1,5 @@
 ---
 title: "Down and Out in the Magic Kingdom"
-slug: "down-and-out-in-the-magic-kingdom"
 publisher: "Tor Books"
 published: "2003"
 asin: "076530953X"

@@ -1,6 +1,5 @@
 ---
 title: "Eating the Dinosaur"
-slug: "eating-the-dinosaur"
 publisher: "Scribner"
 published: "2009"
 asin: "1416544216"

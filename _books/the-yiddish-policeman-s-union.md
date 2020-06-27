@@ -1,6 +1,5 @@
 ---
 title: "The Yiddish Policeman’s Union"
-slug: "the-yiddish-policeman-s-union"
 publisher: "Harper/Collins"
 published: "2007"
 asin: "0007149824"

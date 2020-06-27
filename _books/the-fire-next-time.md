@@ -1,6 +1,5 @@
 ---
 title: "The Fire Next Time"
-slug: "the-fire-next-time"
 publisher: "Dial Press"
 published: "1963"
 asin: "067974472X"

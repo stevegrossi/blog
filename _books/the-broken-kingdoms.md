@@ -1,6 +1,5 @@
 ---
 title: "The Broken Kingdoms"
-slug: "the-broken-kingdoms"
 publisher: "Orbit"
 published: "2010"
 asin: "0316043958"

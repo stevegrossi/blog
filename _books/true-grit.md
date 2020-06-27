@@ -1,6 +1,5 @@
 ---
 title: "True Grit"
-slug: "true-grit"
 publisher: "Overlook Press"
 published: "1968"
 asin: "159020459X"

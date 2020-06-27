@@ -1,6 +1,5 @@
 ---
 title: "Ancillary Mercy"
-slug: "ancillary-mercy"
 publisher: "Orbit"
 published: "2015"
 asin: "0316246689"

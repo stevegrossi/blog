@@ -1,7 +1,6 @@
 ---
 title: "Raising White Kids"
 subtitle: "Bringing Up Children in a Racially Unjust America"
-slug: "raising-white-kids"
 publisher: "Abingdon Press"
 published: "2018"
 asin: "1501878077"

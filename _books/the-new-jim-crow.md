@@ -1,6 +1,5 @@
 ---
 title: "The New Jim Crow"
-slug: "the-new-jim-crow"
 subtitle: "Mass Incarceration in the Age of Colorblindness"
 publisher: "The New Press"
 published: "2012"

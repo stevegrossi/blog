@@ -1,6 +1,5 @@
 ---
 title: "October"
-slug: "october"
 publisher: "The Story of the Russian Revolution"
 published: "2017"
 asin: "1784782777"
