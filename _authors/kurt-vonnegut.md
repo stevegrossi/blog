@@ -1,3 +1,3 @@
 ---
-title: Kurt  Vonnegut
+title: "Kurt Vonnegut"
 ---
