@@ -1,3 +1,4 @@
+require_relative "lib/author"
 require_relative "lib/book"
 
 namespace :books do
@@ -5,35 +6,16 @@ namespace :books do
   # Searches for a book via the Amazon Product Advertising API,
   # and displays what would be persisted by rake books:find, e.g.
   #
-  #     rake books:find Alice in Wonderland
-  #
-  task :find do
-    begin
-      ARGV.each { |a| task a.to_sym do ; end }
-      title = ARGV[1]
-      book = Book.new(title)
-      puts book.to_s
-
-    rescue Book::NotFound
-      puts "Cannot find book"
-    end
-  end
-
-  # Searches for a book via the Amazon Product Advertising API,
-  # and persists it and its author. e.g.
-  #
-  #     rake books:new Alice in Wonderland
+  #     rake books:new Slaughterhouse Five by Kurt Vonnegut
   #
   task :new do
-    begin
-      ARGV.each { |a| task a.to_sym do ; end }
-      title = ARGV[1]
-      book = Book.new(title)
-      puts book.to_s
-      book.save!
+    ARGV.each { |a| task a.to_sym do ; end }
+    title_and_author = ARGV.drop(1).join(" ").split(" by ")
+    title = title_and_author.first
+    author = title_and_author.last
 
-    rescue Book::NotFound
-      puts "Cannot find book"
-    end
+    author = Author.new(author)
+    author.save!
+    Book.new(title, author.slug).save!
   end
 end

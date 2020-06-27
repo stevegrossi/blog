@@ -1,62 +1,40 @@
-require "bookcrawler"
-require_relative "author"
-
-ENV["AMAZON_ASSOCIATES_TRACKING_ID"] = "stevgros-20"
+require "date"
 
 class Book
-  NotFound = Class.new(StandardError)
-
-  attr_reader :record
-  private :record
-
-  def initialize(title)
-    client = Bookcrawler::Client.new
-    @record = client.find_by_title(title)
-    raise NotFound unless @record
+  def initialize(title, author_slug)
+    @full_title = title
+    @author_slug = author_slug
   end
 
   def to_s
     <<~BOOK
       ---
       title: "#{title}"
-      slug: #{slug}
+      slug: "#{slug}"
       subtitle: "#{subtitle}"
-      publisher:
-      published:
-      asin: "#{record.asin}"
+      publisher: ""
+      published: ""
+      asin: ""
       authors:
-        - #{author.slug}
+        - #{@author_slug}
       started: "#{Date.today.to_s}"
-      start_year: "#{Date.today.year}"
       finished:
       ---
     BOOK
   end
 
   def save!
-    save_author! && save_book!
+    File.write "_books/#{slug}.md", to_s
   end
 
   private
 
   def title
-    @_title ||= record.title.split(":").first.strip
+    @_title ||= @full_title.split(":").first.strip
   end
 
   def subtitle
-    @_subtitle ||= record.title.split(":").last.strip
-  end
-
-  def author
-    @_author ||= Author.new(record.author)
-  end
-
-  def save_author!
-    author.save!
-  end
-
-  def save_book!
-    File.write "_books/#{slug}.md", to_s
+    @_subtitle ||= @full_title.split(":").last.strip
   end
 
   def slug
