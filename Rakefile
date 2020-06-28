@@ -1,12 +1,21 @@
 require_relative "lib/author"
 require_relative "lib/book"
+require_relative "lib/tag"
+
+namespace :tags do
+  #
+  # rake tags:new the world
+  #
+  task :new do
+    ARGV.each { |a| task a.to_sym do ; end }
+    name = ARGV.drop(1).join(" ")
+    Tag.new(name).save!
+  end
+end
 
 namespace :books do
-
-  # Searches for a book via the Amazon Product Advertising API,
-  # and displays what would be persisted by rake books:find, e.g.
   #
-  #     rake books:new Slaughterhouse Five by Kurt Vonnegut
+  # rake books:new Slaughterhouse Five by Kurt Vonnegut
   #
   task :new do
     ARGV.each { |a| task a.to_sym do ; end }
