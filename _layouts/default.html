@@ -16,7 +16,7 @@
         </a>
         <ul class="SiteHeader-navList">
           <li class="SiteHeader-navItem">
-             <a class="SiteHeader-navLink {% if page.url == "/" or page.url contains "/page/" %}SiteHeader-navLink--current{% endif %}" href="/">thoughts</a>
+             <a class="SiteHeader-navLink {% if page.url == "/" or page.path contains "_posts" %}SiteHeader-navLink--current{% endif %}" href="/">writing</a>
           </li>
           <li class="SiteHeader-navItem">
              <a class="SiteHeader-navLink {% if page.url contains "/on/books" %}SiteHeader-navLink--current{% endif %}" href="/on/books">reading</a>
