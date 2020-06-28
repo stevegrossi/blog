@@ -5,7 +5,7 @@ description: Institutional racism depends more on indifference than outright hos
 tags:
   - justice
   - punishment
-  - racism
+  - race
 ---
 
 > “I was a stranger and you did not invite me in, I needed clothes and you did not clothe me, I was sick and in prison and you did not look after me.” —Matthew 25:43
