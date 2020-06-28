@@ -3,7 +3,7 @@ title: "The History of Rome"
 description: "Reflections on a 74-hour podcast about 1,000 years of Roman history."
 tags:
   - history
-  - rome
+  - antiquity
 ---
 
 I've just finished Mike Duncan's epic 74-hour podcast series, [The History of Rome](http://thehistoryofrome.typepad.com). What took me four months to devour was nearly five years of Duncan's life in the making. An interesting side-effect of this time compression is that, while flying through about 1000 years of Roman history, thanks to Duncan's personal remarks throughout the series I've also zoomed through a handful of Christmases, Mothers' Days, his move from Portland to Austin, and the birth of his first child. To my delight, this kept me aware of the fact that it was another human being--not an impersonal textbook or Wikipedia article--telling me the story of Rome. Mike's sense of humor as well as his frankness about the limits of his (and history's) knowledge contributed to the effect.

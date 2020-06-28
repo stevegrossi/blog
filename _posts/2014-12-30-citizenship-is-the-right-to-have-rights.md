@@ -4,7 +4,7 @@ description: "Is citizenship really priceless?"
 tags:
   - corporations
   - privilege
-  - rome
+  - antiquity
 ---
 
 James Bridle, in an [op-ed on his latest work](http://www.walkerart.org/magazine/2014/artist-oped-james-bridle-citizenship), [Homo Sacer](http://booktwo.org/notebook/homo-sacer/), explores the essence and future of citizenship:
