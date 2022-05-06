@@ -1,3 +1,0 @@
----
-title: Ibram X. Kendi
----

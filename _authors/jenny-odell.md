@@ -1,3 +1,0 @@
----
-title: Jenny Odell
----
