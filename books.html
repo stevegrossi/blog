@@ -3,23 +3,7 @@ permalink: /on/books/
 description: Writing about books helps me figure out what I think about them.
 ---
 
-{% assign unfinished_books = site.books | where_exp: "book", "book.finished == nil" | sort: "started" %}
-
-<h2 class="u-centered">Currently Reading</h2>
-<ol class="ThumbList">
-{% for book in unfinished_books %}
-  <li class="ThumbList-item">
-    {% assign book_post = site.posts | where: "book", book.slug | first %}
-    {% if book_post %}
-      <a href="/on/{{ book_post.slug }}">
-        <img src="{% if book.asin %}https://images-na.ssl-images-amazon.com/images/P/{{ book.asin }}.01.LZZZZZZZ.jpg{% else %}/img/{{ book.slug }}.jpg{% endif %}" class="ThumbList-thumb Cover" />
-      </a>
-    {% else %}
-      <img src="{% if book.asin %}https://images-na.ssl-images-amazon.com/images/P/{{ book.asin }}.01.LZZZZZZZ.jpg{% else %}/img/{{ book.slug }}.jpg{% endif %}" class="ThumbList-thumb Cover" />
-    {% endif %}
-  </li>
-{% endfor %}
-</ol>
+<p class="u-centered mr-md ml-md">Hi!<br>You’ll notice I’ve stopped keeping track of the books I read. I found it made me focus too much on getting to the <em>end</em> of a book, and not enough on what I was getting <em>out</em> of it. These days, I’m keeping track of what I learn from books in an app I built, <a href="https://note.garden/stevegrossi/">note.garden.com/stevegrossi</a>. See you there!</p>
 
 {% assign books_by_year = site.books | where_exp: "book", "book.finished" | sort: "started" | group_by_exp: "book", "book.started | slice: 0, 4" | reverse %}
 
